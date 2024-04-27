@@ -21,7 +21,7 @@ get data from mainText 從主文得到資料，並且清洗為
 
 # articut parse 
 def articut(inputSTR):
-    articut = Articut(username="anching.cathy@gmail.com", apikey="uIESx@v2Z6o*Rq!Os-c=ew3e4IXQ+Hi")
+    articut = Articut(username="********", apikey="********")
     resultDICT = articut.parse(inputSTR)
 
     return resultDICT
