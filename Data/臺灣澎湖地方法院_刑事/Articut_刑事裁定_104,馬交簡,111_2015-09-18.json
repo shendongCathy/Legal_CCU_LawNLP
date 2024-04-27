@@ -1,0 +1,1803 @@
+{
+    "court": "臺灣澎湖地方法院",
+    "date": "2015-09-18T00:00:00+08:00",
+    "no": "104,馬交簡,111",
+    "sys": "刑事",
+    "reason": "公共危險",
+    "judgement": {
+        "level": "lv2",
+        "result_obj": [
+            [
+                {
+                    "text": "臺灣",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "澎湖",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "地方",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "法院刑事",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "104年度",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "馬",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "交",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "簡字",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "第111號",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "聲請人",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "臺灣澎湖地方法院檢察署檢察官",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "劉旻弘",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "列",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "因",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "公共",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "危險",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "案件",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本院",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "104年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "9月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "14日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "所",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "為",
+                    "pos": "AUX"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "原本",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "及",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "其",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "正",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "本有",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "誤",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "寫",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "更正",
+                    "pos": "DegreeP"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "下",
+                    "pos": "RANGE_locality"
+                }
+            ],
+            [
+                {
+                    "text": "：",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "原",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "原本",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "及",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "其",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "正本",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "當事人",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "欄",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "主文欄",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "內",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "關於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "姓名",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "鄭旻弘",
+                    "pos": "ENTITY_person"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "均",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "更正",
+                    "pos": "DegreeP"
+                },
+                {
+                    "text": "為",
+                    "pos": "AUX"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "劉旻弘",
+                    "pos": "Entity_Party"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "理由",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "一",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "按",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "有誤",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "寫",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "誤算",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "或",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "其他",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "類此",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "顯然",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "錯誤者",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "得以",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "更正",
+                    "pos": "DegreeP"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "民事訴訟法",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第232條第1項",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "定有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "明文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "規定",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "司法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "大法官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "會議釋字",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "第43號",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "解釋",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "刑事",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "訴訟程序",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "不",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "影響",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "全",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "案情",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "節",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "與",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "旨者",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "準用",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "二",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "原",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "原本",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "及",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "其",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "正本",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "當事人",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "欄",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "主文欄",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "內",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "關於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "姓名",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "鄭旻弘",
+                    "pos": "ENTITY_person"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "記載",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "顯",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "係",
+                    "pos": "AUX"
+                },
+                {
+                    "text": "誤載",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "上揭",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "說明",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "更正",
+                    "pos": "DegreeP"
+                },
+                {
+                    "text": "為",
+                    "pos": "AUX"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "劉旻弘",
+                    "pos": "Entity_Party"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "三",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "刑事",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "訴訟",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "法",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "第220條",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "104年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "9月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "18日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "臺灣",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "澎湖",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "地方",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "馬公",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "簡易",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "庭法官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "王政揚",
+                    "pos": "ENTITY_person"
+                },
+                {
+                    "text": "以上",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "正",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "證明",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "與",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "原本",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "無",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "異",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "對",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "抗告",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "須",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "送達",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "後",
+                    "pos": "RANGE_period"
+                },
+                {
+                    "text": "5日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "內",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "本庭",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "（",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "澎湖縣",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "馬公市",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "○○",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "里",
+                    "pos": "ENTITY_measurement"
+                },
+                {
+                    "text": "○○",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "○",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "000",
+                    "pos": "ENTITY_num"
+                },
+                {
+                    "text": "號",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "）",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "提出",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "抗告",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "狀",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "（",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "須",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "附繕",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                }
+            ],
+            [
+                {
+                    "text": "）",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "104年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "9月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "18日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "書記官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "林德盛",
+                    "pos": "ENTITY_person"
+                }
+            ]
+        ],
+        "result_pos": [
+            "<LOCATION>臺灣</LOCATION><LOCATION>澎湖</LOCATION><ENTITY_noun>地方</ENTITY_noun><ENTITY_nouny>法院刑事</ENTITY_nouny><ACTION_verb>裁定</ACTION_verb><TIME_year>104年度</TIME_year><ENTITY_oov>馬</ENTITY_oov><ACTION_verb>交</ACTION_verb><ENTITY_nouny>簡字</ENTITY_nouny><KNOWLEDGE_lawTW>第111號</KNOWLEDGE_lawTW><ENTITY_nouny>聲請人</ENTITY_nouny><Entity_Party>臺灣澎湖地方法院檢察署檢察官</Entity_Party><ENTITY_nouny>被告</ENTITY_nouny><Entity_Party>劉旻弘</Entity_Party><RANGE_locality>上</RANGE_locality><ENTITY_oov>列</ENTITY_oov><ENTITY_nouny>被告</ENTITY_nouny><FUNC_inter>因</FUNC_inter><MODIFIER>公共</MODIFIER><MODIFIER>危險</MODIFIER><ENTITY_nounHead>案件</ENTITY_nounHead>",
+            "，",
+            "<ENTITY_nouny>本院</ENTITY_nouny><FUNC_inner>於</FUNC_inner><ENTITY_noun>中華民國</ENTITY_noun><TIME_year>104年</TIME_year><TIME_month>9月</TIME_month><TIME_day>14日</TIME_day><FUNC_inner>所</FUNC_inner><AUX>為</AUX><FUNC_inner>之</FUNC_inner><ENTITY_nouny>判決</ENTITY_nouny><MODIFIER>原本</MODIFIER><FUNC_conjunction>及</FUNC_conjunction><ENTITY_nouny>其</ENTITY_nouny><MODIFIER>正</MODIFIER><ENTITY_nouny>本有</ENTITY_nouny><MODIFIER>誤</MODIFIER><ACTION_verb>寫</ACTION_verb>",
+            "，",
+            "<MODAL>應</MODAL><ACTION_verb>裁定</ACTION_verb><DegreeP>更正</DegreeP><FUNC_inter>如</FUNC_inter><RANGE_locality>下</RANGE_locality>",
+            "：",
+            "<ENTITY_oov>主文</ENTITY_oov><MODIFIER>原</MODIFIER><ACTION_verb>判決</ACTION_verb><MODIFIER>原本</MODIFIER><FUNC_conjunction>及</FUNC_conjunction><ENTITY_nouny>其</ENTITY_nouny><ENTITY_nouny>正本</ENTITY_nouny><ENTITY_noun>當事人</ENTITY_noun><ENTITY_nounHead>欄</ENTITY_nounHead>",
+            "、",
+            "<ENTITY_oov>主文欄</ENTITY_oov><RANGE_locality>內</RANGE_locality><FUNC_inner>關於</FUNC_inner><ENTITY_nouny>被告</ENTITY_nouny><FUNC_inner>之</FUNC_inner><ENTITY_nouny>姓名</ENTITY_nouny>",
+            "「",
+            "<ENTITY_person>鄭旻弘</ENTITY_person>",
+            "」",
+            "<QUANTIFIER>均</QUANTIFIER><MODAL>應</MODAL><DegreeP>更正</DegreeP><AUX>為</AUX>",
+            "「",
+            "<Entity_Party>劉旻弘</Entity_Party>",
+            "」",
+            "。",
+            "<ENTITY_noun>理由</ENTITY_noun><ENTITY_num>一</ENTITY_num>",
+            "、",
+            "<ACTION_verb>按</ACTION_verb><ACTION_verb>判決</ACTION_verb><ACTION_verb>有誤</ACTION_verb><ACTION_verb>寫</ACTION_verb>",
+            "、",
+            "<ACTION_verb>誤算</ACTION_verb>",
+            "，",
+            "<FUNC_conjunction>或</FUNC_conjunction><MODIFIER>其他</MODIFIER><ENTITY_nounHead>類此</ENTITY_nounHead><FUNC_inner>之</FUNC_inner><MODIFIER>顯然</MODIFIER><ENTITY_nounHead>錯誤者</ENTITY_nounHead>",
+            "，",
+            "<ENTITY_noun>法院</ENTITY_noun><MODAL>得以</MODAL><ACTION_verb>裁定</ACTION_verb><DegreeP>更正</DegreeP><FUNC_inner>之</FUNC_inner>",
+            "，",
+            "<ENTITY_oov>民事訴訟法</ENTITY_oov><KNOWLEDGE_lawTW>第232條第1項</KNOWLEDGE_lawTW><ACTION_verb>定有</ACTION_verb><ENTITY_nouny>明文</ENTITY_nouny>",
+            "。",
+            "<RANGE_locality>上</RANGE_locality><ACTION_verb>開</ACTION_verb><ACTION_verb>規定</ACTION_verb>",
+            "，",
+            "<ACTION_verb>依</ACTION_verb><ENTITY_noun>司法院</ENTITY_noun><ENTITY_nouny>大法官</ENTITY_nouny><ENTITY_nounHead>會議釋字</ENTITY_nounHead><KNOWLEDGE_lawTW>第43號</KNOWLEDGE_lawTW><ENTITY_oov>解釋</ENTITY_oov>",
+            "，",
+            "<FUNC_inner>於</FUNC_inner><ENTITY_nouny>刑事</ENTITY_nouny><ENTITY_nouny>訴訟程序</ENTITY_nouny>",
+            "，",
+            "<FUNC_inter>如</FUNC_inter><FUNC_negation>不</FUNC_negation><ACTION_verb>影響</ACTION_verb><FUNC_inner>於</FUNC_inner><QUANTIFIER>全</QUANTIFIER><ENTITY_nouny>案情</ENTITY_nouny><ENTITY_noun>節</ENTITY_noun><FUNC_conjunction>與</FUNC_conjunction><ACTION_verb>判決</ACTION_verb><FUNC_inner>之</FUNC_inner><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>旨者</ENTITY_nouny>",
+            "，",
+            "<ACTION_verb>準用</ACTION_verb><FUNC_inner>之</FUNC_inner>",
+            "。",
+            "<ENTITY_num>二</ENTITY_num>",
+            "、",
+            "<ENTITY_DetPhrase>本件</ENTITY_DetPhrase><MODIFIER>原</MODIFIER><ACTION_verb>判決</ACTION_verb><MODIFIER>原本</MODIFIER><FUNC_conjunction>及</FUNC_conjunction><ENTITY_nouny>其</ENTITY_nouny><ENTITY_nouny>正本</ENTITY_nouny><ENTITY_noun>當事人</ENTITY_noun><ENTITY_nounHead>欄</ENTITY_nounHead>",
+            "、",
+            "<ENTITY_oov>主文欄</ENTITY_oov><RANGE_locality>內</RANGE_locality><FUNC_inner>關於</FUNC_inner><ENTITY_nouny>被告</ENTITY_nouny><FUNC_inner>之</FUNC_inner><ENTITY_nouny>姓名</ENTITY_nouny>",
+            "「",
+            "<ENTITY_person>鄭旻弘</ENTITY_person>",
+            "」",
+            "<FUNC_inner>之</FUNC_inner><ACTION_verb>記載</ACTION_verb>",
+            "，",
+            "<ENTITY_oov>顯</ENTITY_oov><AUX>係</AUX><ACTION_verb>誤載</ACTION_verb>",
+            "，",
+            "<ACTION_verb>依</ACTION_verb><MODIFIER>上揭</MODIFIER><ENTITY_nounHead>說明</ENTITY_nounHead>",
+            "，",
+            "<MODAL>應</MODAL><DegreeP>更正</DegreeP><AUX>為</AUX>",
+            "「",
+            "<Entity_Party>劉旻弘</Entity_Party>",
+            "」",
+            "。",
+            "<ENTITY_num>三</ENTITY_num>",
+            "、",
+            "<ACTION_verb>依</ACTION_verb><ENTITY_nouny>刑事</ENTITY_nouny><ENTITY_nouny>訴訟</ENTITY_nouny><ENTITY_nouny>法</ENTITY_nouny><KNOWLEDGE_lawTW>第220條</KNOWLEDGE_lawTW><ACTION_verb>裁定</ACTION_verb><FUNC_inter>如</FUNC_inter><ENTITY_nouny>主文</ENTITY_nouny>",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><TIME_year>104年</TIME_year><TIME_month>9月</TIME_month><TIME_day>18日</TIME_day><LOCATION>臺灣</LOCATION><LOCATION>澎湖</LOCATION><ENTITY_noun>地方</ENTITY_noun><ENTITY_noun>法院</ENTITY_noun><LOCATION>馬公</LOCATION><MODIFIER>簡易</MODIFIER><ENTITY_nouny>庭法官</ENTITY_nouny><ENTITY_person>王政揚</ENTITY_person><ENTITY_nouny>以上</ENTITY_nouny><MODIFIER>正</MODIFIER><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>證明</ENTITY_nouny><FUNC_conjunction>與</FUNC_conjunction><MODIFIER>原本</MODIFIER><FUNC_negation>無</FUNC_negation><MODIFIER>異</MODIFIER>",
+            "。",
+            "<FUNC_inter>如</FUNC_inter><FUNC_inner>對</FUNC_inner><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>裁定</ENTITY_nouny><ACTION_verb>抗告</ACTION_verb><MODAL>須</MODAL><FUNC_inner>於</FUNC_inner><ACTION_verb>送達</ACTION_verb><RANGE_period>後</RANGE_period><TIME_day>5日</TIME_day><RANGE_locality>內</RANGE_locality><ENTITY_nouny>本庭</ENTITY_nouny>",
+            "（",
+            "<LOCATION>澎湖縣</LOCATION><LOCATION>馬公市</LOCATION><ENTITY_oov>○○</ENTITY_oov><ENTITY_measurement>里</ENTITY_measurement><ENTITY_nouny>○○</ENTITY_nouny><ENTITY_nouny>○</ENTITY_nouny><ENTITY_num>000</ENTITY_num><ENTITY_oov>號</ENTITY_oov>",
+            "）",
+            "<ACTION_verb>提出</ACTION_verb><ACTION_verb>抗告</ACTION_verb><ENTITY_nouny>狀</ENTITY_nouny>",
+            "（",
+            "<MODAL>須</MODAL><VerbP>附繕</VerbP><FUNC_determiner>本</FUNC_determiner>",
+            "）",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><TIME_year>104年</TIME_year><TIME_month>9月</TIME_month><TIME_day>18日</TIME_day><ENTITY_nouny>書記官</ENTITY_nouny><ENTITY_person>林德盛</ENTITY_person>"
+        ],
+        "result_segmentation": "臺灣/澎湖/地方/法院刑事/裁定/104年度/馬/交/簡字/第111號/聲請人/臺灣澎湖地方法院檢察署檢察官/被告/劉旻弘/上/列/被告/因/公共/危險/案件，本院/於/中華民國/104年/9月/14日/所/為/之/判決/原本/及/其/正/本有/誤/寫，應/裁定/更正/如/下：主文/原/判決/原本/及/其/正本/當事人/欄、主文欄/內/關於/被告/之/姓名「鄭旻弘」均/應/更正/為「劉旻弘」。理由/一、按/判決/有誤/寫、誤算，或/其他/類此/之/顯然/錯誤者，法院/得以/裁定/更正/之，民事訴訟法/第232條第1項/定有/明文。上/開/規定，依/司法院/大法官/會議釋字/第43號/解釋，於/刑事/訴訟程序，如/不/影響/於/全/案情/節/與/判決/之/本/旨者，準用/之。二、本件/原/判決/原本/及/其/正本/當事人/欄、主文欄/內/關於/被告/之/姓名「鄭旻弘」之/記載，顯/係/誤載，依/上揭/說明，應/更正/為「劉旻弘」。三、依/刑事/訴訟/法/第220條/裁定/如/主文。中華民國/104年/9月/18日/臺灣/澎湖/地方/法院/馬公/簡易/庭法官/王政揚/以上/正/本/證明/與/原本/無/異。如/對/本/裁定/抗告/須/於/送達/後/5日/內/本庭（澎湖縣/馬公市/○○/里/○○/○/000/號）提出/抗告/狀（須/附繕/本）。中華民國/104年/9月/18日/書記官/林德盛",
+        "version": "v250"
+    },
+    "type": "裁定",
+    "historyHash": "",
+    "mainText": "原判決原本及其正本當事人欄、主文欄內關於被告之姓名「鄭旻弘」均應更正為「劉旻弘」。",
+    "opinion": {
+        "level": "lv2",
+        "result_obj": [
+            [
+                {
+                    "text": "一",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "按",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "有誤",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "寫",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "誤算",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "或",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "其他",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "類此",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "顯然",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "錯誤者",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "得以",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "更正",
+                    "pos": "DegreeP"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "民事訴訟法",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第232條第1項",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "定有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "明文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "規定",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "司法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "大法官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "會議釋字",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "第43號",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "解釋",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "刑事",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "訴訟程序",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "不",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "影響",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "全",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "案情",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "節",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "與",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "旨者",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "準用",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "二",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "原",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "原本",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "及",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "其",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "正本",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "當事人",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "欄",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "主文欄",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "內",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "關於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "姓名",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "鄭旻弘",
+                    "pos": "ENTITY_person"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "記載",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "顯",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "係",
+                    "pos": "AUX"
+                },
+                {
+                    "text": "誤載",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "上揭",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "說明",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "更正",
+                    "pos": "DegreeP"
+                },
+                {
+                    "text": "為",
+                    "pos": "AUX"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "劉旻弘",
+                    "pos": "Entity_Party"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "三",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "刑事",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "訴訟",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "法",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "第220條",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ]
+        ],
+        "result_pos": [
+            "<ENTITY_num>一</ENTITY_num>",
+            "、",
+            "<ACTION_verb>按</ACTION_verb><ACTION_verb>判決</ACTION_verb><ACTION_verb>有誤</ACTION_verb><ACTION_verb>寫</ACTION_verb>",
+            "、",
+            "<ACTION_verb>誤算</ACTION_verb>",
+            "，",
+            "<FUNC_conjunction>或</FUNC_conjunction><MODIFIER>其他</MODIFIER><ENTITY_nounHead>類此</ENTITY_nounHead><FUNC_inner>之</FUNC_inner><MODIFIER>顯然</MODIFIER><ENTITY_nounHead>錯誤者</ENTITY_nounHead>",
+            "，",
+            "<ENTITY_noun>法院</ENTITY_noun><MODAL>得以</MODAL><ACTION_verb>裁定</ACTION_verb><DegreeP>更正</DegreeP><FUNC_inner>之</FUNC_inner>",
+            "，",
+            "<ENTITY_oov>民事訴訟法</ENTITY_oov><KNOWLEDGE_lawTW>第232條第1項</KNOWLEDGE_lawTW><ACTION_verb>定有</ACTION_verb><ENTITY_nouny>明文</ENTITY_nouny>",
+            "。",
+            "<RANGE_locality>上</RANGE_locality><ACTION_verb>開</ACTION_verb><ACTION_verb>規定</ACTION_verb>",
+            "，",
+            "<ACTION_verb>依</ACTION_verb><ENTITY_noun>司法院</ENTITY_noun><ENTITY_nouny>大法官</ENTITY_nouny><ENTITY_nounHead>會議釋字</ENTITY_nounHead><KNOWLEDGE_lawTW>第43號</KNOWLEDGE_lawTW><ENTITY_oov>解釋</ENTITY_oov>",
+            "，",
+            "<FUNC_inner>於</FUNC_inner><ENTITY_nouny>刑事</ENTITY_nouny><ENTITY_nouny>訴訟程序</ENTITY_nouny>",
+            "，",
+            "<FUNC_inter>如</FUNC_inter><FUNC_negation>不</FUNC_negation><ACTION_verb>影響</ACTION_verb><FUNC_inner>於</FUNC_inner><QUANTIFIER>全</QUANTIFIER><ENTITY_nouny>案情</ENTITY_nouny><ENTITY_noun>節</ENTITY_noun><FUNC_conjunction>與</FUNC_conjunction><ACTION_verb>判決</ACTION_verb><FUNC_inner>之</FUNC_inner><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>旨者</ENTITY_nouny>",
+            "，",
+            "<ACTION_verb>準用</ACTION_verb><FUNC_inner>之</FUNC_inner>",
+            "。",
+            "<ENTITY_num>二</ENTITY_num>",
+            "、",
+            "<ENTITY_DetPhrase>本件</ENTITY_DetPhrase><MODIFIER>原</MODIFIER><ACTION_verb>判決</ACTION_verb><MODIFIER>原本</MODIFIER><FUNC_conjunction>及</FUNC_conjunction><ENTITY_nouny>其</ENTITY_nouny><ENTITY_nouny>正本</ENTITY_nouny><ENTITY_noun>當事人</ENTITY_noun><ENTITY_nounHead>欄</ENTITY_nounHead>",
+            "、",
+            "<ENTITY_oov>主文欄</ENTITY_oov><RANGE_locality>內</RANGE_locality><FUNC_inner>關於</FUNC_inner><ENTITY_nouny>被告</ENTITY_nouny><FUNC_inner>之</FUNC_inner><ENTITY_nouny>姓名</ENTITY_nouny>",
+            "「",
+            "<ENTITY_person>鄭旻弘</ENTITY_person>",
+            "」",
+            "<FUNC_inner>之</FUNC_inner><ACTION_verb>記載</ACTION_verb>",
+            "，",
+            "<ENTITY_oov>顯</ENTITY_oov><AUX>係</AUX><ACTION_verb>誤載</ACTION_verb>",
+            "，",
+            "<ACTION_verb>依</ACTION_verb><MODIFIER>上揭</MODIFIER><ENTITY_nounHead>說明</ENTITY_nounHead>",
+            "，",
+            "<MODAL>應</MODAL><DegreeP>更正</DegreeP><AUX>為</AUX>",
+            "「",
+            "<Entity_Party>劉旻弘</Entity_Party>",
+            "」",
+            "。",
+            "<ENTITY_num>三</ENTITY_num>",
+            "、",
+            "<ACTION_verb>依</ACTION_verb><ENTITY_nouny>刑事</ENTITY_nouny><ENTITY_nouny>訴訟</ENTITY_nouny><ENTITY_nouny>法</ENTITY_nouny><KNOWLEDGE_lawTW>第220條</KNOWLEDGE_lawTW><ACTION_verb>裁定</ACTION_verb><FUNC_inter>如</FUNC_inter><ENTITY_nouny>主文</ENTITY_nouny>",
+            "。"
+        ],
+        "result_segmentation": "一、按/判決/有誤/寫、誤算，或/其他/類此/之/顯然/錯誤者，法院/得以/裁定/更正/之，民事訴訟法/第232條第1項/定有/明文。上/開/規定，依/司法院/大法官/會議釋字/第43號/解釋，於/刑事/訴訟程序，如/不/影響/於/全/案情/節/與/判決/之/本/旨者，準用/之。二、本件/原/判決/原本/及/其/正本/當事人/欄、主文欄/內/關於/被告/之/姓名「鄭旻弘」之/記載，顯/係/誤載，依/上揭/說明，應/更正/為「劉旻弘」。三、依/刑事/訴訟/法/第220條/裁定/如/主文。",
+        "version": "v250"
+    },
+    "relatedIssues": [
+        {
+            "lawName": "刑事訴訟法",
+            "issueRef": "220"
+        },
+        {
+            "lawName": "民事訴訟法",
+            "issueRef": "232 1"
+        }
+    ],
+    "party": [
+        {
+            "group": [
+                "plaintiff"
+            ],
+            "title": "聲請人",
+            "value": "臺灣澎湖地方法院檢察署檢察官"
+        },
+        {
+            "group": [
+                "defendant"
+            ],
+            "title": "被告",
+            "value": "劉旻弘"
+        }
+    ]
+}

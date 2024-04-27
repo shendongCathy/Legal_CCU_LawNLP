@@ -1,0 +1,3938 @@
+{
+    "court": "臺灣澎湖地方法院",
+    "date": "2015-09-16T00:00:00+08:00",
+    "no": "104,馬簡,79",
+    "sys": "刑事",
+    "reason": "偽造文書",
+    "judgement": {
+        "level": "lv2",
+        "result_obj": [
+            [
+                {
+                    "text": "臺灣",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "澎湖",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "地方",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "法院刑事",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "簡易",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "104年度",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "馬簡字",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第79號",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "聲請人",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "臺灣澎湖地方法院檢察署檢察官",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "陳蕙琪",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "列",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "因",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "偽造",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "文書案件",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "經",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "檢察官",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "聲請",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "以",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "簡易",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "處刑",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "（",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "103年度",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "偵字",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第436",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "661",
+                    "pos": "ENTITY_num"
+                },
+                {
+                    "text": "號",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "）",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本院",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "下",
+                    "pos": "RANGE_locality"
+                }
+            ],
+            [
+                {
+                    "text": "：",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "陳蕙琪",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "犯行使",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "偽造",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "私文書",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "罪",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "共",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "柒",
+                    "pos": "ENTITY_num"
+                },
+                {
+                    "text": "罪",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "各處",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "有期徒刑",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "貳月",
+                    "pos": "TIME_month"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "易科",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "罰金",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "均",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "以",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "新臺幣",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "壹仟元",
+                    "pos": "KNOWLEDGE_currency"
+                },
+                {
+                    "text": "折算",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "壹日",
+                    "pos": "TIME_day"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "附件",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "中",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "附表",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "何",
+                    "pos": "CLAUSE_WhatQ"
+                },
+                {
+                    "text": "種",
+                    "pos": "ENTITY_classifier"
+                },
+                {
+                    "text": "文件",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "偽",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "簽",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "署名",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "欄",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "偽造",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "郭",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "美凉",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "署名",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "陳",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "美麗",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "署名",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "陳鄭阿寶",
+                    "pos": "ENTITY_person"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "署名",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "林梅蘭",
+                    "pos": "ENTITY_person"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "署名",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "及",
+                    "pos": "FUNC_conjunction"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "陳",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "美麗",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "印文",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "均",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "沒收",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "執行",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "有期",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "徒刑",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "壹年",
+                    "pos": "TIME_year"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "易科",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "罰金",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "以",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "新臺幣",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "壹仟元",
+                    "pos": "KNOWLEDGE_currency"
+                },
+                {
+                    "text": "折算",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "壹日",
+                    "pos": "TIME_day"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "緩刑",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "貳年",
+                    "pos": "TIME_year"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "並",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "自",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "確定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "日起",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "陸個月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "內向",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "公庫",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "支付",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "新臺幣",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "貳萬元",
+                    "pos": "KNOWLEDGE_currency"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "附件",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "中",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "附表",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "何",
+                    "pos": "CLAUSE_WhatQ"
+                },
+                {
+                    "text": "種",
+                    "pos": "ENTITY_classifier"
+                },
+                {
+                    "text": "文件",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "偽",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "簽",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "署名",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "欄",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "偽造",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "郭",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "美凉",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "署名",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "共",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "柒",
+                    "pos": "ENTITY_num"
+                },
+                {
+                    "text": "枚",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "陳",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "美麗",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "署名",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "共",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "玖",
+                    "pos": "ENTITY_num"
+                },
+                {
+                    "text": "枚",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "陳鄭阿寶",
+                    "pos": "ENTITY_person"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "署名",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "共",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "貳",
+                    "pos": "ENTITY_num"
+                },
+                {
+                    "text": "枚",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "林梅蘭",
+                    "pos": "ENTITY_person"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "署名",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "共",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "貳",
+                    "pos": "ENTITY_num"
+                },
+                {
+                    "text": "枚",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "及",
+                    "pos": "FUNC_conjunction"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "陳",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "美麗",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "印文",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "共",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "貳",
+                    "pos": "ENTITY_num"
+                },
+                {
+                    "text": "枚",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "均",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "沒收",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "事實",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "及",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "理由",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "一",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "犯罪",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "事實",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "證據",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "適用法",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "條",
+                    "pos": "KNOWLEDGE_lawTW"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "除下",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "列",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "更正",
+                    "pos": "DegreeP"
+                },
+                {
+                    "text": "事項",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "外",
+                    "pos": "RANGE_locality"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "餘",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "均",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "引用",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "檢察官",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "聲請",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "簡易",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "處刑書",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "記載",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "(",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "附件",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": ")",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "：",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "(",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "一",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": ")",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "犯罪",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "事實",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "欄",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "第14行",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "及",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "證據",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "並",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "所",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "犯法",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "條",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "欄",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第2行",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "關於",
+                    "pos": "FUNC_inner"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "鄭",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "美麗",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "記載",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "更正",
+                    "pos": "DegreeP"
+                },
+                {
+                    "text": "為",
+                    "pos": "AUX"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "陳",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "美麗",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "(",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "二",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": ")",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "關於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "被害人",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "姓名",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "郭美涼",
+                    "pos": "ENTITY_person"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "記載",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "均",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "更正",
+                    "pos": "DegreeP"
+                },
+                {
+                    "text": "為",
+                    "pos": "AUX"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "郭",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "美凉",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "二",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "附件",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "中",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "附",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "表",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "所",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "示",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "行動",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "電話",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "服務",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "申請",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "書",
+                    "pos": "ENTITY_noun"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "過",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "戶",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "申請",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "書",
+                    "pos": "ENTITY_noun"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "專案",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "同意",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "書",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "偽造",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "署名",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "或",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "印文",
+                    "pos": "VerbP"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "均",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "刑法",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "第219條",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "規定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "宣告",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "沒收",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "至於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "各",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "該",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "行動",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "電話",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "服務",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "申請",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "書",
+                    "pos": "ENTITY_noun"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "過",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "戶",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "申請",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "書",
+                    "pos": "ENTITY_noun"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "專案",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "同意",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "書",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "均",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "已",
+                    "pos": "ASPECT"
+                },
+                {
+                    "text": "由",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "交付",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "威寶",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "電信",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "岡山",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "壽天特",
+                    "pos": "ENTITY_person"
+                },
+                {
+                    "text": "約",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "服務",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "中心",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "收執",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "已",
+                    "pos": "ASPECT"
+                },
+                {
+                    "text": "非",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "所有",
+                    "pos": "QUANTIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "故",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "均",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "不",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "予",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "宣告",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "沒收",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "三",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "又",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "未",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "曾",
+                    "pos": "ASPECT"
+                },
+                {
+                    "text": "因",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "故意",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "犯罪",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "受",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "有期",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "徒刑以上刑",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "宣告",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "臺灣",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "高等",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "前",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "案",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "紀錄表",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "1",
+                    "pos": "ENTITY_num"
+                },
+                {
+                    "text": "紙",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "在",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "卷",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "可",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "參",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "其",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "因",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "一時",
+                    "pos": "TIME_justtime"
+                },
+                {
+                    "text": "失慮",
+                    "pos": "VerbP"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "偶罹刑典",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "事後",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "已",
+                    "pos": "ASPECT"
+                },
+                {
+                    "text": "坦承",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "犯行",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "深",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "具悔意",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "經",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "此刑",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "宣告",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "後",
+                    "pos": "RANGE_period"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "知",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "警惕",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "而",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "無再犯",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "虞",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本院",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "因",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "認暫",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "不",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "執行",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "其",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "刑",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "為",
+                    "pos": "AUX"
+                },
+                {
+                    "text": "當",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "予以",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "宣告",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "緩刑",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "2年",
+                    "pos": "TIME_year"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "並",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "自",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "確定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "日起",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "6個月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "內向",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "公庫",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "支付",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "新臺幣",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "2萬元",
+                    "pos": "KNOWLEDGE_currency"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "以",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "啟自",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "新",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "倘",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "違反",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "負擔",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "事項",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "且",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "情節",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "重大",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "刑法",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "第75條之1第1項第4款",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "規定",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "其",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "緩刑",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "宣告",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "仍",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "得",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "由",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "檢察官",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "向",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "本院",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "聲請",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "撤銷",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "併此",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "敘明",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "四",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "刑事",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "訴訟",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "法",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "第449條第1項",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "前",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "段",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "第3項",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "第450條",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "第1項",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "第454條",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "第2項",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "刑法",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第216條",
+                    "pos": "KNOWLEDGE_lawTW"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "第210條",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "第219條",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "第41條",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "第1項",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "前",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "段",
+                    "pos": "ENTITY_oov"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "第8項",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "第51條",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "第5款",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "第74條",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "第1項",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "第1款",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "第2項",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "第4款",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "逕",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "以",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "簡易",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "判決處",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "所",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "示",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "刑",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "五",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "不",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "服",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "收受",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "判決",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "後",
+                    "pos": "RANGE_period"
+                },
+                {
+                    "text": "10日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "內向",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "本院",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "提出",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "上訴",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "書狀",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "並",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "敘述",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "具體",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "理由",
+                    "pos": "ENTITY_noun"
+                }
+            ],
+            [
+                {
+                    "text": "；",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "其",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "未",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "敘述",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "上訴",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "理由者",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "上訴",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "期間",
+                    "pos": "RANGE_period"
+                },
+                {
+                    "text": "屆滿",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "後",
+                    "pos": "RANGE_period"
+                },
+                {
+                    "text": "20日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "內向",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "本院",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "補提",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "理由書",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "（",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "均",
+                    "pos": "QUANTIFIER"
+                },
+                {
+                    "text": "須",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "按",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "他",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "造",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "當事人",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "人數",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "附繕",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                }
+            ],
+            [
+                {
+                    "text": "）",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "「",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "切",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "勿",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "逕",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "送上",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "級法院",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "」",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "104年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "9月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "16日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "臺灣",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "澎湖",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "地方",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "馬公",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "簡易",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "庭法官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "王政揚",
+                    "pos": "ENTITY_person"
+                },
+                {
+                    "text": "以上",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "正",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "證明",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "與",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "原本",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "無",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "異",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "104年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "9月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "16日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "書記官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "林德盛",
+                    "pos": "ENTITY_person"
+                },
+                {
+                    "text": "附錄",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "本案",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "論",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "罪科刑法",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "條",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "全文",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "：",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "刑法",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "第210條",
+                    "pos": "KNOWLEDGE_lawTW"
+                }
+            ],
+            [
+                {
+                    "text": "：",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "偽造",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "變造",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "私文書",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "足以",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "生",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "損害",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "公眾",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "或",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "他人",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "者",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "處",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "5年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "以下",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "有期",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "徒刑",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "刑法",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "第216條",
+                    "pos": "KNOWLEDGE_lawTW"
+                }
+            ],
+            [
+                {
+                    "text": "：",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "行使",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "第210條",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "至",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "第215條",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "文書者",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "偽造",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "變造",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "文書",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "或",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "登載",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "不實",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "事項",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "或",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "使",
+                    "pos": "ACTION_lightVerb"
+                },
+                {
+                    "text": "登載",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "不實",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "事項",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "規定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "處斷",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "刑法",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "第217條",
+                    "pos": "KNOWLEDGE_lawTW"
+                }
+            ],
+            [
+                {
+                    "text": "：",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "偽造",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "印章",
+                    "pos": "ENTITY_noun"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "印文",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "或",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "署",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "押",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "足以",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "生",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "損害",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "公眾",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "或",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "他人",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "者",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "處",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "3年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "以下",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "有期",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "徒刑",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "盜用",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "印章",
+                    "pos": "ENTITY_noun"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "印文",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "或",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "署",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "押",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "足以",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "生",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "損害",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "公眾",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "或",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "他人",
+                    "pos": "ENTITY_pronoun"
+                },
+                {
+                    "text": "者",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "亦",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "同",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ]
+        ],
+        "result_pos": [
+            "<LOCATION>臺灣</LOCATION><LOCATION>澎湖</LOCATION><ENTITY_noun>地方</ENTITY_noun><ENTITY_nouny>法院刑事</ENTITY_nouny><MODIFIER>簡易</MODIFIER><ACTION_verb>判決</ACTION_verb><TIME_year>104年度</TIME_year><ENTITY_oov>馬簡字</ENTITY_oov><KNOWLEDGE_lawTW>第79號</KNOWLEDGE_lawTW><ENTITY_nouny>聲請人</ENTITY_nouny><Entity_Party>臺灣澎湖地方法院檢察署檢察官</Entity_Party><ENTITY_nouny>被告</ENTITY_nouny><Entity_Party>陳蕙琪</Entity_Party><RANGE_locality>上</RANGE_locality><ENTITY_oov>列</ENTITY_oov><ENTITY_nouny>被告</ENTITY_nouny><FUNC_inter>因</FUNC_inter><ACTION_verb>偽造</ACTION_verb><ENTITY_nouny>文書案件</ENTITY_nouny>",
+            "，",
+            "<ACTION_verb>經</ACTION_verb><ENTITY_noun>檢察官</ENTITY_noun><ACTION_verb>聲請</ACTION_verb><FUNC_inner>以</FUNC_inner><MODIFIER>簡易</MODIFIER><ACTION_verb>判決</ACTION_verb><ENTITY_nouny>處刑</ENTITY_nouny>",
+            "（",
+            "<TIME_year>103年度</TIME_year><ENTITY_oov>偵字</ENTITY_oov><MODIFIER>第436</MODIFIER>",
+            "、",
+            "<ENTITY_num>661</ENTITY_num><ENTITY_oov>號</ENTITY_oov>",
+            "）",
+            "，",
+            "<ENTITY_nouny>本院</ENTITY_nouny><ACTION_verb>判決</ACTION_verb><FUNC_inter>如</FUNC_inter><RANGE_locality>下</RANGE_locality>",
+            "：",
+            "<ENTITY_oov>主文</ENTITY_oov><Entity_Party>陳蕙琪</Entity_Party><ENTITY_oov>犯行使</ENTITY_oov><ACTION_verb>偽造</ACTION_verb><ENTITY_nouny>私文書</ENTITY_nouny><ENTITY_nounHead>罪</ENTITY_nounHead>",
+            "，",
+            "<MODIFIER>共</MODIFIER><ENTITY_num>柒</ENTITY_num><ENTITY_oov>罪</ENTITY_oov>",
+            "，",
+            "<ENTITY_DetPhrase>各處</ENTITY_DetPhrase><ENTITY_nouny>有期徒刑</ENTITY_nouny><TIME_month>貳月</TIME_month>",
+            "，",
+            "<FUNC_inter>如</FUNC_inter><ACTION_verb>易科</ACTION_verb><ENTITY_nouny>罰金</ENTITY_nouny>",
+            "，",
+            "<QUANTIFIER>均</QUANTIFIER><FUNC_inner>以</FUNC_inner><ENTITY_noun>新臺幣</ENTITY_noun><KNOWLEDGE_currency>壹仟元</KNOWLEDGE_currency><ACTION_verb>折算</ACTION_verb><TIME_day>壹日</TIME_day>",
+            "，",
+            "<ENTITY_nouny>附件</ENTITY_nouny><RANGE_locality>中</RANGE_locality><FUNC_inner>之</FUNC_inner><ENTITY_nouny>附表</ENTITY_nouny>",
+            "「",
+            "<FUNC_inner>於</FUNC_inner><CLAUSE_WhatQ>何</CLAUSE_WhatQ><ENTITY_classifier>種</ENTITY_classifier><ENTITY_nouny>文件</ENTITY_nouny><RANGE_locality>上</RANGE_locality><ENTITY_oov>偽</ENTITY_oov><ACTION_verb>簽</ACTION_verb><FUNC_inner>之</FUNC_inner><ENTITY_nouny>署名</ENTITY_nouny>",
+            "」",
+            "<ENTITY_oov>欄</ENTITY_oov><ACTION_verb>偽造</ACTION_verb>",
+            "「",
+            "<ENTITY_nouny>郭</ENTITY_nouny><ENTITY_nouny>美凉</ENTITY_nouny>",
+            "」",
+            "<ACTION_verb>署名</ACTION_verb>",
+            "、",
+            "「",
+            "<ENTITY_nouny>陳</ENTITY_nouny><MODIFIER>美麗</MODIFIER>",
+            "」",
+            "<ACTION_verb>署名</ACTION_verb>",
+            "、",
+            "「",
+            "<ENTITY_person>陳鄭阿寶</ENTITY_person>",
+            "」",
+            "<ACTION_verb>署名</ACTION_verb>",
+            "、",
+            "「",
+            "<ENTITY_person>林梅蘭</ENTITY_person>",
+            "」",
+            "<ACTION_verb>署名</ACTION_verb><FUNC_conjunction>及</FUNC_conjunction>",
+            "「",
+            "<ENTITY_pronoun>陳</ENTITY_pronoun><MODIFIER>美麗</MODIFIER>",
+            "」",
+            "<VerbP>印文</VerbP><QUANTIFIER>均</QUANTIFIER><ACTION_verb>沒收</ACTION_verb>",
+            "。",
+            "<MODAL>應</MODAL><ACTION_verb>執行</ACTION_verb><MODIFIER>有期</MODIFIER><ENTITY_nounHead>徒刑</ENTITY_nounHead><TIME_year>壹年</TIME_year>",
+            "，",
+            "<FUNC_inter>如</FUNC_inter><ACTION_verb>易科</ACTION_verb><ENTITY_nouny>罰金</ENTITY_nouny>",
+            "，",
+            "<FUNC_inner>以</FUNC_inner><ENTITY_noun>新臺幣</ENTITY_noun><KNOWLEDGE_currency>壹仟元</KNOWLEDGE_currency><ACTION_verb>折算</ACTION_verb><TIME_day>壹日</TIME_day>",
+            "。",
+            "<ACTION_verb>緩刑</ACTION_verb><TIME_year>貳年</TIME_year>",
+            "，",
+            "<FUNC_inner>並</FUNC_inner><MODAL>應</MODAL><FUNC_inner>自</FUNC_inner><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>判決</ENTITY_nouny><ACTION_verb>確定</ACTION_verb><ENTITY_nouny>日起</ENTITY_nouny><TIME_month>陸個月</TIME_month><MODIFIER>內向</MODIFIER><ENTITY_nounHead>公庫</ENTITY_nounHead><ACTION_verb>支付</ACTION_verb><ENTITY_noun>新臺幣</ENTITY_noun><KNOWLEDGE_currency>貳萬元</KNOWLEDGE_currency>",
+            "。",
+            "<ENTITY_nouny>附件</ENTITY_nouny><RANGE_locality>中</RANGE_locality><FUNC_inner>之</FUNC_inner><ENTITY_nouny>附表</ENTITY_nouny>",
+            "「",
+            "<FUNC_inner>於</FUNC_inner><CLAUSE_WhatQ>何</CLAUSE_WhatQ><ENTITY_classifier>種</ENTITY_classifier><ENTITY_nouny>文件</ENTITY_nouny><RANGE_locality>上</RANGE_locality><ENTITY_oov>偽</ENTITY_oov><ACTION_verb>簽</ACTION_verb><FUNC_inner>之</FUNC_inner><ENTITY_nouny>署名</ENTITY_nouny>",
+            "」",
+            "<ENTITY_oov>欄</ENTITY_oov><ACTION_verb>偽造</ACTION_verb>",
+            "「",
+            "<ENTITY_nouny>郭</ENTITY_nouny><ENTITY_nouny>美凉</ENTITY_nouny>",
+            "」",
+            "<ACTION_verb>署名</ACTION_verb><MODIFIER>共</MODIFIER><ENTITY_num>柒</ENTITY_num><ENTITY_oov>枚</ENTITY_oov>",
+            "、",
+            "「",
+            "<ENTITY_pronoun>陳</ENTITY_pronoun><MODIFIER>美麗</MODIFIER>",
+            "」",
+            "<ACTION_verb>署名</ACTION_verb><MODIFIER>共</MODIFIER><ENTITY_num>玖</ENTITY_num><ENTITY_oov>枚</ENTITY_oov>",
+            "、",
+            "「",
+            "<ENTITY_person>陳鄭阿寶</ENTITY_person>",
+            "」",
+            "<ACTION_verb>署名</ACTION_verb><MODIFIER>共</MODIFIER><ENTITY_num>貳</ENTITY_num><ENTITY_oov>枚</ENTITY_oov>",
+            "、",
+            "「",
+            "<ENTITY_person>林梅蘭</ENTITY_person>",
+            "」",
+            "<ACTION_verb>署名</ACTION_verb><MODIFIER>共</MODIFIER><ENTITY_num>貳</ENTITY_num><ENTITY_oov>枚</ENTITY_oov><FUNC_conjunction>及</FUNC_conjunction>",
+            "「",
+            "<ENTITY_pronoun>陳</ENTITY_pronoun><MODIFIER>美麗</MODIFIER>",
+            "」",
+            "<VerbP>印文</VerbP><MODIFIER>共</MODIFIER><ENTITY_num>貳</ENTITY_num><ENTITY_oov>枚</ENTITY_oov><QUANTIFIER>均</QUANTIFIER><ACTION_verb>沒收</ACTION_verb>",
+            "。",
+            "<ENTITY_oov>事實</ENTITY_oov><FUNC_conjunction>及</FUNC_conjunction><ENTITY_noun>理由</ENTITY_noun><ENTITY_num>一</ENTITY_num>",
+            "、",
+            "<ENTITY_DetPhrase>本件</ENTITY_DetPhrase><ACTION_verb>犯罪</ACTION_verb><ENTITY_nouny>事實</ENTITY_nouny>",
+            "、",
+            "<ENTITY_oov>證據</ENTITY_oov>",
+            "、",
+            "<MODAL>應</MODAL><ENTITY_nouny>適用法</ENTITY_nouny><KNOWLEDGE_lawTW>條</KNOWLEDGE_lawTW>",
+            "，",
+            "<ACTION_verb>除下</ACTION_verb><ENTITY_oov>列</ENTITY_oov><MODAL>應</MODAL><DegreeP>更正</DegreeP><ENTITY_nounHead>事項</ENTITY_nounHead><RANGE_locality>外</RANGE_locality>",
+            "，",
+            "<ENTITY_oov>餘</ENTITY_oov><QUANTIFIER>均</QUANTIFIER><ACTION_verb>引用</ACTION_verb><ENTITY_noun>檢察官</ENTITY_noun><ACTION_verb>聲請</ACTION_verb><MODIFIER>簡易</MODIFIER><ACTION_verb>判決</ACTION_verb><ENTITY_nouny>處刑書</ENTITY_nouny><FUNC_inner>之</FUNC_inner><ACTION_verb>記載</ACTION_verb>",
+            "(",
+            "<FUNC_inter>如</FUNC_inter><ENTITY_nouny>附件</ENTITY_nouny>",
+            ")",
+            "：",
+            "(",
+            "<ENTITY_num>一</ENTITY_num>",
+            ")",
+            "<ACTION_verb>犯罪</ACTION_verb><ENTITY_nouny>事實</ENTITY_nouny><ENTITY_nouny>欄</ENTITY_nouny><ENTITY_DetPhrase>第14行</ENTITY_DetPhrase><FUNC_conjunction>及</FUNC_conjunction><ENTITY_nouny>證據</ENTITY_nouny><FUNC_inner>並</FUNC_inner><FUNC_inner>所</FUNC_inner><ACTION_verb>犯法</ACTION_verb><KNOWLEDGE_lawTW>條</KNOWLEDGE_lawTW><ENTITY_oov>欄</ENTITY_oov><ENTITY_DetPhrase>第2行</ENTITY_DetPhrase><FUNC_inner>關於</FUNC_inner>",
+            "「",
+            "<ENTITY_nouny>鄭</ENTITY_nouny><MODIFIER>美麗</MODIFIER>",
+            "」",
+            "<FUNC_inner>之</FUNC_inner><ACTION_verb>記載</ACTION_verb><MODAL>應</MODAL><DegreeP>更正</DegreeP><AUX>為</AUX>",
+            "「",
+            "<ENTITY_pronoun>陳</ENTITY_pronoun><MODIFIER>美麗</MODIFIER>",
+            "」",
+            "。",
+            "(",
+            "<ENTITY_num>二</ENTITY_num>",
+            ")",
+            "<FUNC_inner>關於</FUNC_inner><ENTITY_noun>被害人</ENTITY_noun><ENTITY_nounHead>姓名</ENTITY_nounHead>",
+            "「",
+            "<ENTITY_person>郭美涼</ENTITY_person>",
+            "」",
+            "<FUNC_inner>之</FUNC_inner><ACTION_verb>記載</ACTION_verb><QUANTIFIER>均</QUANTIFIER><MODAL>應</MODAL><DegreeP>更正</DegreeP><AUX>為</AUX>",
+            "「",
+            "<ENTITY_nouny>郭</ENTITY_nouny><ENTITY_nouny>美凉</ENTITY_nouny>",
+            "」",
+            "。",
+            "<ENTITY_num>二</ENTITY_num>",
+            "、",
+            "<ENTITY_DetPhrase>本件</ENTITY_DetPhrase><ENTITY_nouny>被告</ENTITY_nouny><FUNC_inner>於</FUNC_inner><ENTITY_nouny>附件</ENTITY_nouny><RANGE_locality>中</RANGE_locality><ACTION_verb>附</ACTION_verb><ENTITY_nounHead>表</ENTITY_nounHead><FUNC_inner>所</FUNC_inner><ACTION_verb>示</ACTION_verb><FUNC_inner>之</FUNC_inner><MODIFIER>行動</MODIFIER><ENTITY_nounHead>電話</ENTITY_nounHead><ACTION_verb>服務</ACTION_verb><ACTION_verb>申請</ACTION_verb><ENTITY_noun>書</ENTITY_noun>",
+            "、",
+            "<ACTION_verb>過</ACTION_verb><ENTITY_oov>戶</ENTITY_oov><ACTION_verb>申請</ACTION_verb><ENTITY_noun>書</ENTITY_noun>",
+            "、",
+            "<ENTITY_oov>專案</ENTITY_oov><ACTION_verb>同意</ACTION_verb><ENTITY_noun>書</ENTITY_noun><RANGE_locality>上</RANGE_locality><ACTION_verb>偽造</ACTION_verb><ACTION_verb>署名</ACTION_verb><FUNC_conjunction>或</FUNC_conjunction><VerbP>印文</VerbP>",
+            "，",
+            "<QUANTIFIER>均</QUANTIFIER><MODAL>應</MODAL><ACTION_verb>依</ACTION_verb><ENTITY_nouny>刑法</ENTITY_nouny><KNOWLEDGE_lawTW>第219條</KNOWLEDGE_lawTW><FUNC_inner>之</FUNC_inner><ACTION_verb>規定</ACTION_verb><ACTION_verb>宣告</ACTION_verb><ACTION_verb>沒收</ACTION_verb>",
+            "。",
+            "<FUNC_inner>至於</FUNC_inner><QUANTIFIER>各</QUANTIFIER><MODAL>該</MODAL><MODIFIER>行動</MODIFIER><ENTITY_nounHead>電話</ENTITY_nounHead><ACTION_verb>服務</ACTION_verb><ACTION_verb>申請</ACTION_verb><ENTITY_noun>書</ENTITY_noun>",
+            "、",
+            "<ACTION_verb>過</ACTION_verb><ENTITY_oov>戶</ENTITY_oov><ACTION_verb>申請</ACTION_verb><ENTITY_noun>書</ENTITY_noun>",
+            "、",
+            "<ENTITY_oov>專案</ENTITY_oov><ACTION_verb>同意</ACTION_verb><ENTITY_noun>書</ENTITY_noun><QUANTIFIER>均</QUANTIFIER><ASPECT>已</ASPECT><FUNC_inner>由</FUNC_inner><ENTITY_nouny>被告</ENTITY_nouny><ACTION_verb>交付</ACTION_verb><ENTITY_nouny>威寶</ENTITY_nouny><ENTITY_nouny>電信</ENTITY_nouny><LOCATION>岡山</LOCATION><ENTITY_person>壽天特</ENTITY_person><ACTION_verb>約</ACTION_verb><ACTION_verb>服務</ACTION_verb><ENTITY_nounHead>中心</ENTITY_nounHead><ACTION_verb>收執</ACTION_verb>",
+            "，",
+            "<ASPECT>已</ASPECT><FUNC_negation>非</FUNC_negation><ENTITY_nouny>被告</ENTITY_nouny><QUANTIFIER>所有</QUANTIFIER>",
+            "，",
+            "<FUNC_inter>故</FUNC_inter><QUANTIFIER>均</QUANTIFIER><FUNC_negation>不</FUNC_negation><ACTION_verb>予</ACTION_verb><ACTION_verb>宣告</ACTION_verb><ACTION_verb>沒收</ACTION_verb>",
+            "。",
+            "<ENTITY_num>三</ENTITY_num>",
+            "、",
+            "<FUNC_inner>又</FUNC_inner><ENTITY_nouny>被告</ENTITY_nouny><FUNC_negation>未</FUNC_negation><ASPECT>曾</ASPECT><FUNC_inter>因</FUNC_inter><MODIFIER>故意</MODIFIER><ACTION_verb>犯罪</ACTION_verb><ACTION_verb>受</ACTION_verb><MODIFIER>有期</MODIFIER><ENTITY_nounHead>徒刑以上刑</ENTITY_nounHead><FUNC_inner>之</FUNC_inner><ENTITY_nouny>宣告</ENTITY_nouny>",
+            "，",
+            "<ACTION_verb>有</ACTION_verb><LOCATION>臺灣</LOCATION><MODIFIER>高等</MODIFIER><ENTITY_noun>法院</ENTITY_noun><ENTITY_nouny>被告</ENTITY_nouny><RANGE_locality>前</RANGE_locality><ENTITY_oov>案</ENTITY_oov><ENTITY_nouny>紀錄表</ENTITY_nouny><ENTITY_num>1</ENTITY_num><ENTITY_oov>紙</ENTITY_oov><FUNC_inner>在</FUNC_inner><ENTITY_nouny>卷</ENTITY_nouny><MODAL>可</MODAL><ACTION_verb>參</ACTION_verb>",
+            "，",
+            "<ENTITY_pronoun>其</ENTITY_pronoun><FUNC_inter>因</FUNC_inter><TIME_justtime>一時</TIME_justtime><VerbP>失慮</VerbP>",
+            "，",
+            "<ENTITY_oov>偶罹刑典</ENTITY_oov>",
+            "，",
+            "<MODIFIER>事後</MODIFIER><ASPECT>已</ASPECT><ACTION_verb>坦承</ACTION_verb><ENTITY_nouny>犯行</ENTITY_nouny>",
+            "，",
+            "<MODIFIER>深</MODIFIER><ENTITY_nounHead>具悔意</ENTITY_nounHead>",
+            "，",
+            "<ACTION_verb>經</ACTION_verb><ENTITY_nouny>此刑</ENTITY_nouny><FUNC_inner>之</FUNC_inner><ACTION_verb>宣告</ACTION_verb><RANGE_period>後</RANGE_period>",
+            "，",
+            "<MODAL>應</MODAL><ACTION_verb>知</ACTION_verb><ACTION_verb>警惕</ACTION_verb><FUNC_inner>而</FUNC_inner><ENTITY_nouny>無再犯</ENTITY_nouny><FUNC_inner>之</FUNC_inner><ENTITY_nouny>虞</ENTITY_nouny>",
+            "，",
+            "<ENTITY_nouny>本院</ENTITY_nouny><FUNC_inter>因</FUNC_inter><VerbP>認暫</VerbP><FUNC_negation>不</FUNC_negation><ACTION_verb>執行</ACTION_verb><ENTITY_pronoun>其</ENTITY_pronoun><ENTITY_nouny>刑</ENTITY_nouny><AUX>為</AUX><ENTITY_nouny>當</ENTITY_nouny>",
+            "，",
+            "<ACTION_verb>予以</ACTION_verb><ACTION_verb>宣告</ACTION_verb><ACTION_verb>緩刑</ACTION_verb><TIME_year>2年</TIME_year>",
+            "，",
+            "<FUNC_inner>並</FUNC_inner><MODAL>應</MODAL><FUNC_inner>自</FUNC_inner><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>判決</ENTITY_nouny><ACTION_verb>確定</ACTION_verb><ENTITY_nouny>日起</ENTITY_nouny><TIME_month>6個月</TIME_month><MODIFIER>內向</MODIFIER><ENTITY_nounHead>公庫</ENTITY_nounHead><ACTION_verb>支付</ACTION_verb><ENTITY_noun>新臺幣</ENTITY_noun><KNOWLEDGE_currency>2萬元</KNOWLEDGE_currency>",
+            "，",
+            "<FUNC_inner>以</FUNC_inner><ENTITY_nouny>啟自</ENTITY_nouny><MODIFIER>新</MODIFIER>",
+            "。",
+            "<FUNC_inter>倘</FUNC_inter><ENTITY_nouny>被告</ENTITY_nouny><ACTION_verb>違反</ACTION_verb><RANGE_locality>上</RANGE_locality><ACTION_verb>開</ACTION_verb><MODAL>應</MODAL><ACTION_verb>負擔</ACTION_verb><FUNC_inner>之</FUNC_inner><ENTITY_nounHead>事項</ENTITY_nounHead><FUNC_conjunction>且</FUNC_conjunction><ENTITY_nouny>情節</ENTITY_nouny><MODIFIER>重大</MODIFIER>",
+            "，",
+            "<ACTION_verb>依</ACTION_verb><ENTITY_nouny>刑法</ENTITY_nouny><KNOWLEDGE_lawTW>第75條之1第1項第4款</KNOWLEDGE_lawTW><FUNC_inner>之</FUNC_inner><ENTITY_nouny>規定</ENTITY_nouny>",
+            "，",
+            "<ENTITY_pronoun>其</ENTITY_pronoun><ACTION_verb>緩刑</ACTION_verb><FUNC_inner>之</FUNC_inner><ACTION_verb>宣告</ACTION_verb><FUNC_inner>仍</FUNC_inner><ACTION_verb>得</ACTION_verb><FUNC_inner>由</FUNC_inner><ENTITY_noun>檢察官</ENTITY_noun><FUNC_inner>向</FUNC_inner><ENTITY_nouny>本院</ENTITY_nouny><ACTION_verb>聲請</ACTION_verb><ACTION_verb>撤銷</ACTION_verb>",
+            "，",
+            "<VerbP>併此</VerbP><ACTION_verb>敘明</ACTION_verb>",
+            "。",
+            "<ENTITY_num>四</ENTITY_num>",
+            "、",
+            "<ACTION_verb>依</ACTION_verb><ENTITY_nouny>刑事</ENTITY_nouny><ENTITY_nouny>訴訟</ENTITY_nouny><ENTITY_nouny>法</ENTITY_nouny><KNOWLEDGE_lawTW>第449條第1項</KNOWLEDGE_lawTW><RANGE_locality>前</RANGE_locality><ENTITY_oov>段</ENTITY_oov>",
+            "、",
+            "<ENTITY_DetPhrase>第3項</ENTITY_DetPhrase>",
+            "、",
+            "<ENTITY_DetPhrase>第450條</ENTITY_DetPhrase><ENTITY_DetPhrase>第1項</ENTITY_DetPhrase>",
+            "、",
+            "<ENTITY_DetPhrase>第454條</ENTITY_DetPhrase><ENTITY_DetPhrase>第2項</ENTITY_DetPhrase>",
+            "，",
+            "<ENTITY_oov>刑法</ENTITY_oov><KNOWLEDGE_lawTW>第216條</KNOWLEDGE_lawTW>",
+            "、",
+            "<ENTITY_DetPhrase>第210條</ENTITY_DetPhrase>",
+            "、",
+            "<ENTITY_DetPhrase>第219條</ENTITY_DetPhrase>",
+            "、",
+            "<ENTITY_DetPhrase>第41條</ENTITY_DetPhrase><ENTITY_DetPhrase>第1項</ENTITY_DetPhrase><RANGE_locality>前</RANGE_locality><ENTITY_oov>段</ENTITY_oov>",
+            "、",
+            "<ENTITY_DetPhrase>第8項</ENTITY_DetPhrase>",
+            "、",
+            "<ENTITY_DetPhrase>第51條</ENTITY_DetPhrase><ENTITY_DetPhrase>第5款</ENTITY_DetPhrase>",
+            "、",
+            "<ENTITY_DetPhrase>第74條</ENTITY_DetPhrase><ENTITY_DetPhrase>第1項</ENTITY_DetPhrase><ENTITY_DetPhrase>第1款</ENTITY_DetPhrase>",
+            "、",
+            "<ENTITY_DetPhrase>第2項</ENTITY_DetPhrase><ENTITY_DetPhrase>第4款</ENTITY_DetPhrase>",
+            "，",
+            "<MODIFIER>逕</MODIFIER><FUNC_inner>以</FUNC_inner><MODIFIER>簡易</MODIFIER><ENTITY_nouny>判決處</ENTITY_nouny><FUNC_inter>如</FUNC_inter><ENTITY_nouny>主文</ENTITY_nouny><FUNC_inner>所</FUNC_inner><ACTION_verb>示</ACTION_verb><FUNC_inner>之</FUNC_inner><ENTITY_nouny>刑</ENTITY_nouny>",
+            "。",
+            "<ENTITY_num>五</ENTITY_num>",
+            "、",
+            "<FUNC_inter>如</FUNC_inter><FUNC_negation>不</FUNC_negation><ACTION_verb>服</ACTION_verb><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>判決</ENTITY_nouny><MODAL>應</MODAL><FUNC_inner>於</FUNC_inner><ACTION_verb>收受</ACTION_verb><ACTION_verb>判決</ACTION_verb><RANGE_period>後</RANGE_period><TIME_day>10日</TIME_day><MODIFIER>內向</MODIFIER><ENTITY_nouny>本院</ENTITY_nouny><ACTION_verb>提出</ACTION_verb><ACTION_verb>上訴</ACTION_verb><ENTITY_nouny>書狀</ENTITY_nouny>",
+            "，",
+            "<FUNC_inner>並</FUNC_inner><MODAL>應</MODAL><ACTION_verb>敘述</ACTION_verb><MODIFIER>具體</MODIFIER><ENTITY_noun>理由</ENTITY_noun>",
+            "；",
+            "<ENTITY_pronoun>其</ENTITY_pronoun><FUNC_negation>未</FUNC_negation><ACTION_verb>敘述</ACTION_verb><ACTION_verb>上訴</ACTION_verb><ENTITY_nouny>理由者</ENTITY_nouny>",
+            "，",
+            "<MODAL>應</MODAL><FUNC_inner>於</FUNC_inner><ACTION_verb>上訴</ACTION_verb><RANGE_period>期間</RANGE_period><ACTION_verb>屆滿</ACTION_verb><RANGE_period>後</RANGE_period><TIME_day>20日</TIME_day><MODIFIER>內向</MODIFIER><ENTITY_nouny>本院</ENTITY_nouny><ACTION_verb>補提</ACTION_verb><ENTITY_nouny>理由書</ENTITY_nouny>",
+            "（",
+            "<QUANTIFIER>均</QUANTIFIER><MODAL>須</MODAL><ACTION_verb>按</ACTION_verb><ENTITY_pronoun>他</ENTITY_pronoun><ACTION_verb>造</ACTION_verb><ENTITY_noun>當事人</ENTITY_noun><FUNC_inner>之</FUNC_inner><ENTITY_noun>人數</ENTITY_noun><VerbP>附繕</VerbP><FUNC_determiner>本</FUNC_determiner>",
+            "）",
+            "「",
+            "<ACTION_verb>切</ACTION_verb><FUNC_negation>勿</FUNC_negation><MODIFIER>逕</MODIFIER><ACTION_verb>送上</ACTION_verb><ENTITY_nouny>級法院</ENTITY_nouny>",
+            "」",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><TIME_year>104年</TIME_year><TIME_month>9月</TIME_month><TIME_day>16日</TIME_day><LOCATION>臺灣</LOCATION><LOCATION>澎湖</LOCATION><ENTITY_noun>地方</ENTITY_noun><ENTITY_noun>法院</ENTITY_noun><LOCATION>馬公</LOCATION><MODIFIER>簡易</MODIFIER><ENTITY_nouny>庭法官</ENTITY_nouny><ENTITY_person>王政揚</ENTITY_person><ENTITY_nouny>以上</ENTITY_nouny><MODIFIER>正</MODIFIER><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>證明</ENTITY_nouny><FUNC_conjunction>與</FUNC_conjunction><MODIFIER>原本</MODIFIER><FUNC_negation>無</FUNC_negation><MODIFIER>異</MODIFIER>",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><TIME_year>104年</TIME_year><TIME_month>9月</TIME_month><TIME_day>16日</TIME_day><ENTITY_nouny>書記官</ENTITY_nouny><ENTITY_person>林德盛</ENTITY_person><ACTION_verb>附錄</ACTION_verb><ENTITY_nouny>本案</ENTITY_nouny><ACTION_verb>論</ACTION_verb><ENTITY_nounHead>罪科刑法</ENTITY_nounHead><KNOWLEDGE_lawTW>條</KNOWLEDGE_lawTW><MODIFIER>全文</MODIFIER>",
+            "：",
+            "<ENTITY_noun>中華民國</ENTITY_noun><ENTITY_nounHead>刑法</ENTITY_nounHead><KNOWLEDGE_lawTW>第210條</KNOWLEDGE_lawTW>",
+            "：",
+            "<ACTION_verb>偽造</ACTION_verb>",
+            "、",
+            "<ACTION_verb>變造</ACTION_verb><ENTITY_nouny>私文書</ENTITY_nouny>",
+            "，",
+            "<MODAL>足以</MODAL><ENTITY_oov>生</ENTITY_oov><ACTION_verb>損害</ACTION_verb><FUNC_inner>於</FUNC_inner><ENTITY_nouny>公眾</ENTITY_nouny><FUNC_conjunction>或</FUNC_conjunction><ENTITY_pronoun>他人</ENTITY_pronoun><ENTITY_nouny>者</ENTITY_nouny>",
+            "，",
+            "<ACTION_verb>處</ACTION_verb><TIME_year>5年</TIME_year><FUNC_inner>以下</FUNC_inner><MODIFIER>有期</MODIFIER><ENTITY_nounHead>徒刑</ENTITY_nounHead>",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><ENTITY_nounHead>刑法</ENTITY_nounHead><KNOWLEDGE_lawTW>第216條</KNOWLEDGE_lawTW>",
+            "：",
+            "<ACTION_verb>行使</ACTION_verb><ENTITY_DetPhrase>第210條</ENTITY_DetPhrase><FUNC_inner>至</FUNC_inner><ENTITY_DetPhrase>第215條</ENTITY_DetPhrase><FUNC_inner>之</FUNC_inner><ENTITY_nouny>文書者</ENTITY_nouny>",
+            "，",
+            "<ACTION_verb>依</ACTION_verb><ACTION_verb>偽造</ACTION_verb>",
+            "、",
+            "<ACTION_verb>變造</ACTION_verb><ENTITY_noun>文書</ENTITY_noun><FUNC_conjunction>或</FUNC_conjunction><ACTION_verb>登載</ACTION_verb><MODIFIER>不實</MODIFIER><ENTITY_nounHead>事項</ENTITY_nounHead><FUNC_conjunction>或</FUNC_conjunction><ACTION_lightVerb>使</ACTION_lightVerb><ACTION_verb>登載</ACTION_verb><MODIFIER>不實</MODIFIER><ENTITY_nounHead>事項</ENTITY_nounHead><FUNC_inner>之</FUNC_inner><ACTION_verb>規定</ACTION_verb><ACTION_verb>處斷</ACTION_verb>",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><ENTITY_nounHead>刑法</ENTITY_nounHead><KNOWLEDGE_lawTW>第217條</KNOWLEDGE_lawTW>",
+            "：",
+            "<ACTION_verb>偽造</ACTION_verb><ENTITY_noun>印章</ENTITY_noun>",
+            "、",
+            "<VerbP>印文</VerbP><FUNC_conjunction>或</FUNC_conjunction><ENTITY_nouny>署</ENTITY_nouny><ACTION_verb>押</ACTION_verb>",
+            "，",
+            "<MODAL>足以</MODAL><ENTITY_oov>生</ENTITY_oov><ACTION_verb>損害</ACTION_verb><FUNC_inner>於</FUNC_inner><ENTITY_nouny>公眾</ENTITY_nouny><FUNC_conjunction>或</FUNC_conjunction><ENTITY_pronoun>他人</ENTITY_pronoun><ENTITY_nouny>者</ENTITY_nouny>",
+            "，",
+            "<ACTION_verb>處</ACTION_verb><TIME_year>3年</TIME_year><FUNC_inner>以下</FUNC_inner><MODIFIER>有期</MODIFIER><ENTITY_nounHead>徒刑</ENTITY_nounHead>",
+            "。",
+            "<ACTION_verb>盜用</ACTION_verb><ENTITY_noun>印章</ENTITY_noun>",
+            "、",
+            "<VerbP>印文</VerbP><FUNC_conjunction>或</FUNC_conjunction><ENTITY_nouny>署</ENTITY_nouny><ACTION_verb>押</ACTION_verb>",
+            "，",
+            "<MODAL>足以</MODAL><ENTITY_oov>生</ENTITY_oov><ACTION_verb>損害</ACTION_verb><FUNC_inner>於</FUNC_inner><ENTITY_nouny>公眾</ENTITY_nouny><FUNC_conjunction>或</FUNC_conjunction><ENTITY_pronoun>他人</ENTITY_pronoun><ENTITY_nouny>者</ENTITY_nouny>",
+            "，",
+            "<MODIFIER>亦</MODIFIER><MODIFIER>同</MODIFIER>",
+            "。"
+        ],
+        "result_segmentation": "臺灣/澎湖/地方/法院刑事/簡易/判決/104年度/馬簡字/第79號/聲請人/臺灣澎湖地方法院檢察署檢察官/被告/陳蕙琪/上/列/被告/因/偽造/文書案件，經/檢察官/聲請/以/簡易/判決/處刑（103年度/偵字/第436、661/號），本院/判決/如/下：主文/陳蕙琪/犯行使/偽造/私文書/罪，共/柒/罪，各處/有期徒刑/貳月，如/易科/罰金，均/以/新臺幣/壹仟元/折算/壹日，附件/中/之/附表「於/何/種/文件/上/偽/簽/之/署名」欄/偽造「郭/美凉」署名、「陳/美麗」署名、「陳鄭阿寶」署名、「林梅蘭」署名/及「陳/美麗」印文/均/沒收。應/執行/有期/徒刑/壹年，如/易科/罰金，以/新臺幣/壹仟元/折算/壹日。緩刑/貳年，並/應/自/本/判決/確定/日起/陸個月/內向/公庫/支付/新臺幣/貳萬元。附件/中/之/附表「於/何/種/文件/上/偽/簽/之/署名」欄/偽造「郭/美凉」署名/共/柒/枚、「陳/美麗」署名/共/玖/枚、「陳鄭阿寶」署名/共/貳/枚、「林梅蘭」署名/共/貳/枚/及「陳/美麗」印文/共/貳/枚/均/沒收。事實/及/理由/一、本件/犯罪/事實、證據、應/適用法/條，除下/列/應/更正/事項/外，餘/均/引用/檢察官/聲請/簡易/判決/處刑書/之/記載(如/附件)：(一)犯罪/事實/欄/第14行/及/證據/並/所/犯法/條/欄/第2行/關於「鄭/美麗」之/記載/應/更正/為「陳/美麗」。(二)關於/被害人/姓名「郭美涼」之/記載/均/應/更正/為「郭/美凉」。二、本件/被告/於/附件/中/附/表/所/示/之/行動/電話/服務/申請/書、過/戶/申請/書、專案/同意/書/上/偽造/署名/或/印文，均/應/依/刑法/第219條/之/規定/宣告/沒收。至於/各/該/行動/電話/服務/申請/書、過/戶/申請/書、專案/同意/書/均/已/由/被告/交付/威寶/電信/岡山/壽天特/約/服務/中心/收執，已/非/被告/所有，故/均/不/予/宣告/沒收。三、又/被告/未/曾/因/故意/犯罪/受/有期/徒刑以上刑/之/宣告，有/臺灣/高等/法院/被告/前/案/紀錄表/1/紙/在/卷/可/參，其/因/一時/失慮，偶罹刑典，事後/已/坦承/犯行，深/具悔意，經/此刑/之/宣告/後，應/知/警惕/而/無再犯/之/虞，本院/因/認暫/不/執行/其/刑/為/當，予以/宣告/緩刑/2年，並/應/自/本/判決/確定/日起/6個月/內向/公庫/支付/新臺幣/2萬元，以/啟自/新。倘/被告/違反/上/開/應/負擔/之/事項/且/情節/重大，依/刑法/第75條之1第1項第4款/之/規定，其/緩刑/之/宣告/仍/得/由/檢察官/向/本院/聲請/撤銷，併此/敘明。四、依/刑事/訴訟/法/第449條第1項/前/段、第3項、第450條/第1項、第454條/第2項，刑法/第216條、第210條、第219條、第41條/第1項/前/段、第8項、第51條/第5款、第74條/第1項/第1款、第2項/第4款，逕/以/簡易/判決處/如/主文/所/示/之/刑。五、如/不/服/本/判決/應/於/收受/判決/後/10日/內向/本院/提出/上訴/書狀，並/應/敘述/具體/理由；其/未/敘述/上訴/理由者，應/於/上訴/期間/屆滿/後/20日/內向/本院/補提/理由書（均/須/按/他/造/當事人/之/人數/附繕/本）「切/勿/逕/送上/級法院」。中華民國/104年/9月/16日/臺灣/澎湖/地方/法院/馬公/簡易/庭法官/王政揚/以上/正/本/證明/與/原本/無/異。中華民國/104年/9月/16日/書記官/林德盛/附錄/本案/論/罪科刑法/條/全文：中華民國/刑法/第210條：偽造、變造/私文書，足以/生/損害/於/公眾/或/他人/者，處/5年/以下/有期/徒刑。中華民國/刑法/第216條：行使/第210條/至/第215條/之/文書者，依/偽造、變造/文書/或/登載/不實/事項/或/使/登載/不實/事項/之/規定/處斷。中華民國/刑法/第217條：偽造/印章、印文/或/署/押，足以/生/損害/於/公眾/或/他人/者，處/3年/以下/有期/徒刑。盜用/印章、印文/或/署/押，足以/生/損害/於/公眾/或/他人/者，亦/同。",
+        "version": "v250"
+    },
+    "type": "判決",
+    "historyHash": "",
+    "mainText": "陳蕙琪犯行使偽造私文書罪，共柒罪，各處有期徒刑貳月，如易科罰金，均以新臺幣壹仟元折算壹日，附件中之附表「於何種文件上偽簽之署名」欄偽造「郭美凉」署名、「陳美麗」署名、「陳鄭阿寶」署名、「林梅蘭」署名及「陳美麗」印文均沒收。應執行有期徒刑壹年，如易科罰金，以新臺幣壹仟元折算壹日。緩刑貳年，並應自本判決確定日起陸個月內向公庫支付新臺幣貳萬元。附件中之附表「於何種文件上偽簽之署名」欄偽造「郭美凉」署名共柒枚、「陳美麗」署名共玖枚、「陳鄭阿寶」署名共貳枚、「林梅蘭」署名共貳枚及「陳美麗」印文共貳枚均沒收。",
+    "opinion": {
+        "level": "lv2",
+        "result_obj": [],
+        "result_pos": [],
+        "result_segmentation": "",
+        "version": "v250"
+    },
+    "relatedIssues": [
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "41 1"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "41 8"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "51 1 5"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "74 1 1"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "74 2 4"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "75-1 1 4"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "210"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "210"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "216"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "216"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "217"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "219"
+        },
+        {
+            "lawName": "中華民國刑法",
+            "issueRef": "219"
+        },
+        {
+            "lawName": "刑事訴訟法",
+            "issueRef": "449 1"
+        },
+        {
+            "lawName": "刑事訴訟法",
+            "issueRef": "449 3"
+        },
+        {
+            "lawName": "刑事訴訟法",
+            "issueRef": "450 1"
+        },
+        {
+            "lawName": "刑事訴訟法",
+            "issueRef": "454 2"
+        }
+    ],
+    "party": [
+        {
+            "group": [
+                "plaintiff"
+            ],
+            "title": "聲請人",
+            "value": "臺灣澎湖地方法院檢察署檢察官"
+        },
+        {
+            "group": [
+                "defendant"
+            ],
+            "title": "被告",
+            "value": "陳蕙琪"
+        }
+    ]
+}

@@ -1,0 +1,833 @@
+{
+    "court": "臺灣澎湖地方法院",
+    "date": "2015-08-13T00:00:00+08:00",
+    "no": "104,馬交簡附民,2",
+    "sys": "刑事",
+    "reason": "損害賠償",
+    "judgement": {
+        "level": "lv2",
+        "result_obj": [
+            [
+                {
+                    "text": "臺灣",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "澎湖",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "地方",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "法院刑事",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "附帶",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "民事",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "訴訟",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "104年度",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "馬",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "交簡",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "附",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "民字",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "第2號",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "原告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "張呂春蓮",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "許清心",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "列",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "當事人",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "間",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "損害",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "賠償",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "事件",
+                    "pos": "ENTITY_noun"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本院",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "下",
+                    "pos": "RANGE_locality"
+                }
+            ],
+            [
+                {
+                    "text": "：",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "再",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "言詞",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "並",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "指定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "民國",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "一零四年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "九月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "一日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "下午",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "三時",
+                    "pos": "TIME_justtime"
+                },
+                {
+                    "text": "三十分",
+                    "pos": "TIME_justtime"
+                },
+                {
+                    "text": "整",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "本院",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "簡易",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "法庭",
+                    "pos": "ENTITY_nounHead"
+                },
+                {
+                    "text": "行言詞",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "程序",
+                    "pos": "ENTITY_noun"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "理由",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "一",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "按",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "言詞",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "終結",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "後",
+                    "pos": "RANGE_period"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "宣示",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "裁判",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "前",
+                    "pos": "RANGE_locality"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "必要",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "得命",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "再",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "民事訴訟法",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第210條",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "定有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "明文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "二",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "爰",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "依首",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "揭",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "規定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "104年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "8月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "13日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "臺灣",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "澎湖",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "地方",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "馬公",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "簡易",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "庭法官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "陳炫谷",
+                    "pos": "ENTITY_person"
+                },
+                {
+                    "text": "以上",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "正",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "證明",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "與",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "原本",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "無",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "異",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "不",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "得",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "抗告",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "104年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "8月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "13日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "書記官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "林德盛",
+                    "pos": "ENTITY_person"
+                }
+            ]
+        ],
+        "result_pos": [
+            "<LOCATION>臺灣</LOCATION><LOCATION>澎湖</LOCATION><ENTITY_noun>地方</ENTITY_noun><ENTITY_nouny>法院刑事</ENTITY_nouny><ACTION_verb>附帶</ACTION_verb><ENTITY_nouny>民事</ENTITY_nouny><ENTITY_nouny>訴訟</ENTITY_nouny><ACTION_verb>裁定</ACTION_verb><TIME_year>104年度</TIME_year><ENTITY_oov>馬</ENTITY_oov><VerbP>交簡</VerbP><ACTION_verb>附</ACTION_verb><ENTITY_nouny>民字</ENTITY_nouny><KNOWLEDGE_lawTW>第2號</KNOWLEDGE_lawTW><ENTITY_nouny>原告</ENTITY_nouny><Entity_Party>張呂春蓮</Entity_Party><ENTITY_nouny>被告</ENTITY_nouny><Entity_Party>許清心</Entity_Party><RANGE_locality>上</RANGE_locality><ENTITY_oov>列</ENTITY_oov><ENTITY_noun>當事人</ENTITY_noun><ENTITY_nounHead>間</ENTITY_nounHead><ACTION_verb>損害</ACTION_verb><ACTION_verb>賠償</ACTION_verb><ENTITY_noun>事件</ENTITY_noun>",
+            "，",
+            "<ENTITY_nouny>本院</ENTITY_nouny><ACTION_verb>裁定</ACTION_verb><FUNC_inter>如</FUNC_inter><RANGE_locality>下</RANGE_locality>",
+            "：",
+            "<ENTITY_oov>主文</ENTITY_oov><ENTITY_DetPhrase>本件</ENTITY_DetPhrase><MODAL>應</MODAL><MODIFIER>再</MODIFIER><ACTION_verb>開</ACTION_verb><ENTITY_noun>言詞</ENTITY_noun><ACTION_verb>辯論</ACTION_verb>",
+            "，",
+            "<FUNC_inner>並</FUNC_inner><ACTION_verb>指定</ACTION_verb><FUNC_inner>於</FUNC_inner><ENTITY_nouny>民國</ENTITY_nouny><TIME_year>一零四年</TIME_year><TIME_month>九月</TIME_month><TIME_day>一日</TIME_day><TIME_day>下午</TIME_day><TIME_justtime>三時</TIME_justtime><TIME_justtime>三十分</TIME_justtime><ENTITY_oov>整</ENTITY_oov><FUNC_inner>於</FUNC_inner><ENTITY_nouny>本院</ENTITY_nouny><MODIFIER>簡易</MODIFIER><ENTITY_nounHead>法庭</ENTITY_nounHead><ENTITY_nouny>行言詞</ENTITY_nouny><ACTION_verb>辯論</ACTION_verb><ENTITY_noun>程序</ENTITY_noun>",
+            "。",
+            "<ENTITY_noun>理由</ENTITY_noun><ENTITY_num>一</ENTITY_num>",
+            "、",
+            "<ACTION_verb>按</ACTION_verb><ENTITY_noun>法院</ENTITY_noun><FUNC_inner>於</FUNC_inner><ENTITY_noun>言詞</ENTITY_noun><ACTION_verb>辯論</ACTION_verb><ACTION_verb>終結</ACTION_verb><RANGE_period>後</RANGE_period>",
+            "，",
+            "<ACTION_verb>宣示</ACTION_verb><ENTITY_noun>裁判</ENTITY_noun><RANGE_locality>前</RANGE_locality>",
+            "，",
+            "<FUNC_inter>如</FUNC_inter><ACTION_verb>有</ACTION_verb><MODIFIER>必要</MODIFIER><VerbP>得命</VerbP><MODIFIER>再</MODIFIER><ACTION_verb>開</ACTION_verb><ACTION_verb>辯論</ACTION_verb>",
+            "，",
+            "<ENTITY_oov>民事訴訟法</ENTITY_oov><KNOWLEDGE_lawTW>第210條</KNOWLEDGE_lawTW><ACTION_verb>定有</ACTION_verb><ENTITY_nouny>明文</ENTITY_nouny>",
+            "。",
+            "<ENTITY_num>二</ENTITY_num>",
+            "、",
+            "<FUNC_inter>爰</FUNC_inter><VerbP>依首</VerbP><ACTION_verb>揭</ACTION_verb><ACTION_verb>規定</ACTION_verb><ACTION_verb>裁定</ACTION_verb><FUNC_inter>如</FUNC_inter><ENTITY_nouny>主文</ENTITY_nouny>",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><TIME_year>104年</TIME_year><TIME_month>8月</TIME_month><TIME_day>13日</TIME_day><LOCATION>臺灣</LOCATION><LOCATION>澎湖</LOCATION><ENTITY_noun>地方</ENTITY_noun><ENTITY_noun>法院</ENTITY_noun><LOCATION>馬公</LOCATION><MODIFIER>簡易</MODIFIER><ENTITY_nouny>庭法官</ENTITY_nouny><ENTITY_person>陳炫谷</ENTITY_person><ENTITY_nouny>以上</ENTITY_nouny><MODIFIER>正</MODIFIER><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>證明</ENTITY_nouny><FUNC_conjunction>與</FUNC_conjunction><MODIFIER>原本</MODIFIER><FUNC_negation>無</FUNC_negation><MODIFIER>異</MODIFIER>",
+            "。",
+            "<ENTITY_DetPhrase>本件</ENTITY_DetPhrase><FUNC_negation>不</FUNC_negation><MODAL>得</MODAL><ACTION_verb>抗告</ACTION_verb>",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><TIME_year>104年</TIME_year><TIME_month>8月</TIME_month><TIME_day>13日</TIME_day><ENTITY_nouny>書記官</ENTITY_nouny><ENTITY_person>林德盛</ENTITY_person>"
+        ],
+        "result_segmentation": "臺灣/澎湖/地方/法院刑事/附帶/民事/訴訟/裁定/104年度/馬/交簡/附/民字/第2號/原告/張呂春蓮/被告/許清心/上/列/當事人/間/損害/賠償/事件，本院/裁定/如/下：主文/本件/應/再/開/言詞/辯論，並/指定/於/民國/一零四年/九月/一日/下午/三時/三十分/整/於/本院/簡易/法庭/行言詞/辯論/程序。理由/一、按/法院/於/言詞/辯論/終結/後，宣示/裁判/前，如/有/必要/得命/再/開/辯論，民事訴訟法/第210條/定有/明文。二、爰/依首/揭/規定/裁定/如/主文。中華民國/104年/8月/13日/臺灣/澎湖/地方/法院/馬公/簡易/庭法官/陳炫谷/以上/正/本/證明/與/原本/無/異。本件/不/得/抗告。中華民國/104年/8月/13日/書記官/林德盛",
+        "version": "v250"
+    },
+    "type": "裁定",
+    "historyHash": "",
+    "mainText": "本件應再開言詞辯論，並指定於民國一零四年九月一日下午三時三十分整於本院簡易法庭行言詞辯論程序。",
+    "opinion": {
+        "level": "lv2",
+        "result_obj": [
+            [
+                {
+                    "text": "一",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "按",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "言詞",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "終結",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "後",
+                    "pos": "RANGE_period"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "宣示",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "裁判",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "前",
+                    "pos": "RANGE_locality"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "必要",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "得命",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "再",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "民事訴訟法",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第210條",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "定有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "明文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "二",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "爰",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "依首",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "揭",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "規定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ]
+        ],
+        "result_pos": [
+            "<ENTITY_num>一</ENTITY_num>",
+            "、",
+            "<ACTION_verb>按</ACTION_verb><ENTITY_noun>法院</ENTITY_noun><FUNC_inner>於</FUNC_inner><ENTITY_noun>言詞</ENTITY_noun><ACTION_verb>辯論</ACTION_verb><ACTION_verb>終結</ACTION_verb><RANGE_period>後</RANGE_period>",
+            "，",
+            "<ACTION_verb>宣示</ACTION_verb><ENTITY_noun>裁判</ENTITY_noun><RANGE_locality>前</RANGE_locality>",
+            "，",
+            "<FUNC_inter>如</FUNC_inter><ACTION_verb>有</ACTION_verb><MODIFIER>必要</MODIFIER><VerbP>得命</VerbP><MODIFIER>再</MODIFIER><ACTION_verb>開</ACTION_verb><ACTION_verb>辯論</ACTION_verb>",
+            "，",
+            "<ENTITY_oov>民事訴訟法</ENTITY_oov><KNOWLEDGE_lawTW>第210條</KNOWLEDGE_lawTW><ACTION_verb>定有</ACTION_verb><ENTITY_nouny>明文</ENTITY_nouny>",
+            "。",
+            "<ENTITY_num>二</ENTITY_num>",
+            "、",
+            "<FUNC_inter>爰</FUNC_inter><VerbP>依首</VerbP><ACTION_verb>揭</ACTION_verb><ACTION_verb>規定</ACTION_verb><ACTION_verb>裁定</ACTION_verb><FUNC_inter>如</FUNC_inter><ENTITY_nouny>主文</ENTITY_nouny>",
+            "。"
+        ],
+        "result_segmentation": "一、按/法院/於/言詞/辯論/終結/後，宣示/裁判/前，如/有/必要/得命/再/開/辯論，民事訴訟法/第210條/定有/明文。二、爰/依首/揭/規定/裁定/如/主文。",
+        "version": "v250"
+    },
+    "relatedIssues": [
+        {
+            "lawName": "民事訴訟法",
+            "issueRef": "210"
+        }
+    ],
+    "party": [
+        {
+            "group": [
+                "plaintiff"
+            ],
+            "title": "原告",
+            "value": "張呂春蓮"
+        },
+        {
+            "group": [
+                "defendant"
+            ],
+            "title": "被告",
+            "value": "許清心"
+        }
+    ]
+}

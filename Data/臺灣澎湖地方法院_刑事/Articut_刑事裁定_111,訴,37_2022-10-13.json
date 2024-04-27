@@ -1,0 +1,1491 @@
+{
+    "court": "臺灣澎湖地方法院",
+    "date": "2022-10-13T00:00:00+08:00",
+    "no": "111,訴,37",
+    "sys": "刑事",
+    "reason": "業務侵占等",
+    "judgement": {
+        "level": "lv2",
+        "result_obj": [
+            [
+                {
+                    "text": "臺灣澎湖地方法院",
+                    "pos": "UserDefined_court"
+                },
+                {
+                    "text": "刑事",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "111年度",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "訴字",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第37號",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "公訴人",
+                    "pos": "UserDefined_party"
+                },
+                {
+                    "text": "臺灣澎湖地方檢察署檢察官",
+                    "pos": "UserDefined_party"
+                },
+                {
+                    "text": "被告",
+                    "pos": "UserDefined_party"
+                },
+                {
+                    "text": "溫一帆",
+                    "pos": "UserDefined"
+                },
+                {
+                    "text": "選任辯護人",
+                    "pos": "UserDefined_party"
+                },
+                {
+                    "text": "鄭明達律師",
+                    "pos": "UserDefined_party"
+                }
+            ],
+            [
+                {
+                    "text": "(",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "法",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "扶",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "律師",
+                    "pos": "ENTITY_noun"
+                }
+            ],
+            [
+                {
+                    "text": ")",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "列",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "被告",
+                    "pos": "UserDefined_party"
+                },
+                {
+                    "text": "因",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "業務",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "侵占",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "等",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "案件",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "經",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "檢察官",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "提起",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "公訴",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "（",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "111年度",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "偵字",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第369號",
+                    "pos": "KNOWLEDGE_lawTW"
+                }
+            ],
+            [
+                {
+                    "text": "）",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "並",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "經",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "本院",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "合議庭",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "改",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "由",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "受命",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "法官獨",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "任",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "進行",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "簡式",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "審判",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "程序",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "且",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "終結",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "後",
+                    "pos": "RANGE_period"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本院",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "下",
+                    "pos": "RANGE_locality"
+                }
+            ],
+            [
+                {
+                    "text": "：",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "再",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "理由",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "一",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "按",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "終結",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "後",
+                    "pos": "RANGE_period"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "遇",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "必要",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "情形",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "得命",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "再",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "刑事訴訟法",
+                    "pos": "UserDefined_lawName"
+                },
+                {
+                    "text": "第291條",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "定有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "明文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "查",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "被告",
+                    "pos": "UserDefined_party"
+                },
+                {
+                    "text": "溫一帆",
+                    "pos": "UserDefined"
+                },
+                {
+                    "text": "因",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "業務",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "侵占",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "等",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "案件",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "民國",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "111年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "9月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "19日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "準備",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "程序坦",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "認",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "犯行",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "嗣經",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "合議庭",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "由",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "受命",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "法官",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "改依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "簡式",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "審判",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "程序",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "審理",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "並",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "同日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "終結",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "定於",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "111年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "10月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "19日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "下午",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "4時",
+                    "pos": "TIME_justtime"
+                },
+                {
+                    "text": "宣判",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "；",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "茲",
+                    "pos": "CLAUSE_particle"
+                },
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "尚",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "行",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "調查",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "處",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "爰",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "再",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "二",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "刑事訴訟法",
+                    "pos": "UserDefined_lawName"
+                },
+                {
+                    "text": "第220條",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "111年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "10月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "13日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "刑事庭",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "法官",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "王偉為",
+                    "pos": "ENTITY_person"
+                },
+                {
+                    "text": "以上",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "正",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "證明",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "與",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "原本",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "無",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "異",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "不",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "得",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "抗告",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "111年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "10月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "13日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "書記官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "莊心羽",
+                    "pos": "ENTITY_person"
+                }
+            ]
+        ],
+        "result_pos": [
+            "<UserDefined_court>臺灣澎湖地方法院</UserDefined_court><ENTITY_oov>刑事</ENTITY_oov><ACTION_verb>裁定</ACTION_verb><TIME_year>111年度</TIME_year><ENTITY_oov>訴字</ENTITY_oov><KNOWLEDGE_lawTW>第37號</KNOWLEDGE_lawTW><UserDefined_party>公訴人</UserDefined_party><UserDefined_party>臺灣澎湖地方檢察署檢察官</UserDefined_party><UserDefined_party>被告</UserDefined_party><UserDefined>溫一帆</UserDefined><UserDefined_party>選任辯護人</UserDefined_party><UserDefined_party>鄭明達律師</UserDefined_party>",
+            "(",
+            "<ENTITY_oov>法</ENTITY_oov><ACTION_verb>扶</ACTION_verb><ENTITY_noun>律師</ENTITY_noun>",
+            ")",
+            "<RANGE_locality>上</RANGE_locality><ENTITY_oov>列</ENTITY_oov><UserDefined_party>被告</UserDefined_party><FUNC_inter>因</FUNC_inter><ENTITY_noun>業務</ENTITY_noun><ACTION_verb>侵占</ACTION_verb><ACTION_verb>等</ACTION_verb><ENTITY_nouny>案件</ENTITY_nouny>",
+            "，",
+            "<ACTION_verb>經</ACTION_verb><ENTITY_noun>檢察官</ENTITY_noun><ACTION_verb>提起</ACTION_verb><ENTITY_nouny>公訴</ENTITY_nouny>",
+            "（",
+            "<TIME_year>111年度</TIME_year><ENTITY_oov>偵字</ENTITY_oov><KNOWLEDGE_lawTW>第369號</KNOWLEDGE_lawTW>",
+            "）",
+            "，",
+            "<FUNC_inner>並</FUNC_inner><ACTION_verb>經</ACTION_verb><ENTITY_nouny>本院</ENTITY_nouny><ENTITY_nouny>合議庭</ENTITY_nouny><ACTION_verb>裁定</ACTION_verb><ACTION_verb>改</ACTION_verb><FUNC_inner>由</FUNC_inner><ACTION_verb>受命</ACTION_verb><ENTITY_nouny>法官獨</ENTITY_nouny><ACTION_verb>任</ACTION_verb><ACTION_verb>進行</ACTION_verb><MODIFIER>簡式</MODIFIER><ACTION_verb>審判</ACTION_verb><ENTITY_noun>程序</ENTITY_noun><FUNC_conjunction>且</FUNC_conjunction><ACTION_verb>辯論</ACTION_verb><ACTION_verb>終結</ACTION_verb><RANGE_period>後</RANGE_period>",
+            "，",
+            "<ENTITY_nouny>本院</ENTITY_nouny><ACTION_verb>裁定</ACTION_verb><FUNC_inter>如</FUNC_inter><RANGE_locality>下</RANGE_locality>",
+            "：",
+            "<ENTITY_oov>主文</ENTITY_oov><ENTITY_DetPhrase>本件</ENTITY_DetPhrase><MODAL>應</MODAL><MODIFIER>再</MODIFIER><ACTION_verb>開</ACTION_verb><ACTION_verb>辯論</ACTION_verb>",
+            "。",
+            "<ENTITY_noun>理由</ENTITY_noun><ENTITY_num>一</ENTITY_num>",
+            "、",
+            "<ACTION_verb>按</ACTION_verb><ACTION_verb>辯論</ACTION_verb><ACTION_verb>終結</ACTION_verb><RANGE_period>後</RANGE_period>",
+            "，",
+            "<ACTION_verb>遇</ACTION_verb><ACTION_verb>有</ACTION_verb><MODIFIER>必要</MODIFIER><ENTITY_nounHead>情形</ENTITY_nounHead>",
+            "，",
+            "<ENTITY_noun>法院</ENTITY_noun><VerbP>得命</VerbP><MODIFIER>再</MODIFIER><ACTION_verb>開</ACTION_verb><ACTION_verb>辯論</ACTION_verb>",
+            "，",
+            "<UserDefined_lawName>刑事訴訟法</UserDefined_lawName><ENTITY_DetPhrase>第291條</ENTITY_DetPhrase><ACTION_verb>定有</ACTION_verb><ENTITY_nouny>明文</ENTITY_nouny>",
+            "。",
+            "<ACTION_verb>查</ACTION_verb><ENTITY_DetPhrase>本件</ENTITY_DetPhrase><UserDefined_party>被告</UserDefined_party><UserDefined>溫一帆</UserDefined><FUNC_inter>因</FUNC_inter><ENTITY_noun>業務</ENTITY_noun><ACTION_verb>侵占</ACTION_verb><ACTION_verb>等</ACTION_verb><ENTITY_nouny>案件</ENTITY_nouny>",
+            "，",
+            "<FUNC_inner>於</FUNC_inner><ENTITY_nouny>民國</ENTITY_nouny><TIME_year>111年</TIME_year><TIME_month>9月</TIME_month><TIME_day>19日</TIME_day><ACTION_verb>準備</ACTION_verb><ENTITY_nouny>程序坦</ENTITY_nouny><ACTION_verb>認</ACTION_verb><ENTITY_nouny>犯行</ENTITY_nouny>",
+            "，",
+            "<FUNC_inter>嗣經</FUNC_inter><ENTITY_nouny>合議庭</ENTITY_nouny><ACTION_verb>裁定</ACTION_verb><FUNC_inner>由</FUNC_inner><ACTION_verb>受命</ACTION_verb><ENTITY_noun>法官</ENTITY_noun><ACTION_verb>改依</ACTION_verb><MODIFIER>簡式</MODIFIER><ACTION_verb>審判</ACTION_verb><ENTITY_noun>程序</ENTITY_noun><ACTION_verb>審理</ACTION_verb>",
+            "，",
+            "<FUNC_inner>並</FUNC_inner><FUNC_inner>於</FUNC_inner><TIME_day>同日</TIME_day><ACTION_verb>辯論</ACTION_verb><ACTION_verb>終結</ACTION_verb>",
+            "，",
+            "<ACTION_verb>定於</ACTION_verb><TIME_year>111年</TIME_year><TIME_month>10月</TIME_month><TIME_day>19日</TIME_day><TIME_day>下午</TIME_day><TIME_justtime>4時</TIME_justtime><ACTION_verb>宣判</ACTION_verb>",
+            "；",
+            "<CLAUSE_particle>茲</CLAUSE_particle><ENTITY_DetPhrase>本件</ENTITY_DetPhrase><FUNC_inner>尚</FUNC_inner><ACTION_verb>有</ACTION_verb><MODAL>應</MODAL><MODIFIER>行</MODIFIER><ACTION_verb>調查</ACTION_verb><FUNC_inner>之</FUNC_inner><ENTITY_nouny>處</ENTITY_nouny>",
+            "，",
+            "<FUNC_inter>爰</FUNC_inter><ACTION_verb>裁定</ACTION_verb><MODIFIER>再</MODIFIER><ACTION_verb>開</ACTION_verb><ACTION_verb>辯論</ACTION_verb>",
+            "。",
+            "<ENTITY_num>二</ENTITY_num>",
+            "、",
+            "<ACTION_verb>依</ACTION_verb><UserDefined_lawName>刑事訴訟法</UserDefined_lawName><ENTITY_DetPhrase>第220條</ENTITY_DetPhrase>",
+            "，",
+            "<ACTION_verb>裁定</ACTION_verb><FUNC_inter>如</FUNC_inter><ENTITY_nouny>主文</ENTITY_nouny>",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><TIME_year>111年</TIME_year><TIME_month>10月</TIME_month><TIME_day>13日</TIME_day><ENTITY_oov>刑事庭</ENTITY_oov><ENTITY_noun>法官</ENTITY_noun><ENTITY_person>王偉為</ENTITY_person><ENTITY_nouny>以上</ENTITY_nouny><MODIFIER>正</MODIFIER><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>證明</ENTITY_nouny><FUNC_conjunction>與</FUNC_conjunction><MODIFIER>原本</MODIFIER><FUNC_negation>無</FUNC_negation><MODIFIER>異</MODIFIER>",
+            "。",
+            "<FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>裁定</ENTITY_nouny><FUNC_negation>不</FUNC_negation><MODAL>得</MODAL><ACTION_verb>抗告</ACTION_verb>",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><TIME_year>111年</TIME_year><TIME_month>10月</TIME_month><TIME_day>13日</TIME_day><ENTITY_nouny>書記官</ENTITY_nouny><ENTITY_person>莊心羽</ENTITY_person>"
+        ],
+        "result_segmentation": "臺灣澎湖地方法院/刑事/裁定/111年度/訴字/第37號/公訴人/臺灣澎湖地方檢察署檢察官/被告/溫一帆/選任辯護人/鄭明達律師(法/扶/律師)上/列/被告/因/業務/侵占/等/案件，經/檢察官/提起/公訴（111年度/偵字/第369號），並/經/本院/合議庭/裁定/改/由/受命/法官獨/任/進行/簡式/審判/程序/且/辯論/終結/後，本院/裁定/如/下：主文/本件/應/再/開/辯論。理由/一、按/辯論/終結/後，遇/有/必要/情形，法院/得命/再/開/辯論，刑事訴訟法/第291條/定有/明文。查/本件/被告/溫一帆/因/業務/侵占/等/案件，於/民國/111年/9月/19日/準備/程序坦/認/犯行，嗣經/合議庭/裁定/由/受命/法官/改依/簡式/審判/程序/審理，並/於/同日/辯論/終結，定於/111年/10月/19日/下午/4時/宣判；茲/本件/尚/有/應/行/調查/之/處，爰/裁定/再/開/辯論。二、依/刑事訴訟法/第220條，裁定/如/主文。中華民國/111年/10月/13日/刑事庭/法官/王偉為/以上/正/本/證明/與/原本/無/異。本/裁定/不/得/抗告。中華民國/111年/10月/13日/書記官/莊心羽",
+        "version": "v264"
+    },
+    "type": "裁定",
+    "historyHash": "6354c07dcc605a101a0de934",
+    "mainText": {
+        "level": "lv2",
+        "result_obj": [
+            [
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "再",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ]
+        ],
+        "result_pos": [
+            "<ENTITY_DetPhrase>本件</ENTITY_DetPhrase><MODAL>應</MODAL><MODIFIER>再</MODIFIER><ACTION_verb>開</ACTION_verb><ACTION_verb>辯論</ACTION_verb>",
+            "。"
+        ],
+        "result_segmentation": "本件/應/再/開/辯論。",
+        "version": "v264"
+    },
+    "opinion": {
+        "level": "lv2",
+        "result_obj": [
+            [
+                {
+                    "text": "一",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "按",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "終結",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "後",
+                    "pos": "RANGE_period"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "遇",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "必要",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "情形",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "法院",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "得命",
+                    "pos": "VerbP"
+                },
+                {
+                    "text": "再",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "刑事訴訟法",
+                    "pos": "UserDefined_lawName"
+                },
+                {
+                    "text": "第291條",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "定有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "明文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "查",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "被告",
+                    "pos": "UserDefined_party"
+                },
+                {
+                    "text": "溫一帆",
+                    "pos": "UserDefined"
+                },
+                {
+                    "text": "因",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "業務",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "侵占",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "等",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "案件",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "民國",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "111年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "9月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "19日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "準備",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "程序坦",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "認",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "犯行",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "嗣經",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "合議庭",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "由",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "受命",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "法官",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "改依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "簡式",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "審判",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "程序",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "審理",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "並",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "於",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "同日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "終結",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "定於",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "111年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "10月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "19日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "下午",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "4時",
+                    "pos": "TIME_justtime"
+                },
+                {
+                    "text": "宣判",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "；",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "茲",
+                    "pos": "CLAUSE_particle"
+                },
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "尚",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "行",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "調查",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "處",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "爰",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "再",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "二",
+                    "pos": "ENTITY_num"
+                }
+            ],
+            [
+                {
+                    "text": "、",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "依",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "刑事訴訟法",
+                    "pos": "UserDefined_lawName"
+                },
+                {
+                    "text": "第220條",
+                    "pos": "ENTITY_DetPhrase"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "如",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "主文",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ]
+        ],
+        "result_pos": [
+            "<ENTITY_num>一</ENTITY_num>",
+            "、",
+            "<ACTION_verb>按</ACTION_verb><ACTION_verb>辯論</ACTION_verb><ACTION_verb>終結</ACTION_verb><RANGE_period>後</RANGE_period>",
+            "，",
+            "<ACTION_verb>遇</ACTION_verb><ACTION_verb>有</ACTION_verb><MODIFIER>必要</MODIFIER><ENTITY_nounHead>情形</ENTITY_nounHead>",
+            "，",
+            "<ENTITY_noun>法院</ENTITY_noun><VerbP>得命</VerbP><MODIFIER>再</MODIFIER><ACTION_verb>開</ACTION_verb><ACTION_verb>辯論</ACTION_verb>",
+            "，",
+            "<UserDefined_lawName>刑事訴訟法</UserDefined_lawName><ENTITY_DetPhrase>第291條</ENTITY_DetPhrase><ACTION_verb>定有</ACTION_verb><ENTITY_nouny>明文</ENTITY_nouny>",
+            "。",
+            "<ACTION_verb>查</ACTION_verb><ENTITY_DetPhrase>本件</ENTITY_DetPhrase><UserDefined_party>被告</UserDefined_party><UserDefined>溫一帆</UserDefined><FUNC_inter>因</FUNC_inter><ENTITY_noun>業務</ENTITY_noun><ACTION_verb>侵占</ACTION_verb><ACTION_verb>等</ACTION_verb><ENTITY_nouny>案件</ENTITY_nouny>",
+            "，",
+            "<FUNC_inner>於</FUNC_inner><ENTITY_nouny>民國</ENTITY_nouny><TIME_year>111年</TIME_year><TIME_month>9月</TIME_month><TIME_day>19日</TIME_day><ACTION_verb>準備</ACTION_verb><ENTITY_nouny>程序坦</ENTITY_nouny><ACTION_verb>認</ACTION_verb><ENTITY_nouny>犯行</ENTITY_nouny>",
+            "，",
+            "<FUNC_inter>嗣經</FUNC_inter><ENTITY_nouny>合議庭</ENTITY_nouny><ACTION_verb>裁定</ACTION_verb><FUNC_inner>由</FUNC_inner><ACTION_verb>受命</ACTION_verb><ENTITY_noun>法官</ENTITY_noun><ACTION_verb>改依</ACTION_verb><MODIFIER>簡式</MODIFIER><ACTION_verb>審判</ACTION_verb><ENTITY_noun>程序</ENTITY_noun><ACTION_verb>審理</ACTION_verb>",
+            "，",
+            "<FUNC_inner>並</FUNC_inner><FUNC_inner>於</FUNC_inner><TIME_day>同日</TIME_day><ACTION_verb>辯論</ACTION_verb><ACTION_verb>終結</ACTION_verb>",
+            "，",
+            "<ACTION_verb>定於</ACTION_verb><TIME_year>111年</TIME_year><TIME_month>10月</TIME_month><TIME_day>19日</TIME_day><TIME_day>下午</TIME_day><TIME_justtime>4時</TIME_justtime><ACTION_verb>宣判</ACTION_verb>",
+            "；",
+            "<CLAUSE_particle>茲</CLAUSE_particle><ENTITY_DetPhrase>本件</ENTITY_DetPhrase><FUNC_inner>尚</FUNC_inner><ACTION_verb>有</ACTION_verb><MODAL>應</MODAL><MODIFIER>行</MODIFIER><ACTION_verb>調查</ACTION_verb><FUNC_inner>之</FUNC_inner><ENTITY_nouny>處</ENTITY_nouny>",
+            "，",
+            "<FUNC_inter>爰</FUNC_inter><ACTION_verb>裁定</ACTION_verb><MODIFIER>再</MODIFIER><ACTION_verb>開</ACTION_verb><ACTION_verb>辯論</ACTION_verb>",
+            "。",
+            "<ENTITY_num>二</ENTITY_num>",
+            "、",
+            "<ACTION_verb>依</ACTION_verb><UserDefined_lawName>刑事訴訟法</UserDefined_lawName><ENTITY_DetPhrase>第220條</ENTITY_DetPhrase>",
+            "，",
+            "<ACTION_verb>裁定</ACTION_verb><FUNC_inter>如</FUNC_inter><ENTITY_nouny>主文</ENTITY_nouny>",
+            "。"
+        ],
+        "result_segmentation": "一、按/辯論/終結/後，遇/有/必要/情形，法院/得命/再/開/辯論，刑事訴訟法/第291條/定有/明文。查/本件/被告/溫一帆/因/業務/侵占/等/案件，於/民國/111年/9月/19日/準備/程序坦/認/犯行，嗣經/合議庭/裁定/由/受命/法官/改依/簡式/審判/程序/審理，並/於/同日/辯論/終結，定於/111年/10月/19日/下午/4時/宣判；茲/本件/尚/有/應/行/調查/之/處，爰/裁定/再/開/辯論。二、依/刑事訴訟法/第220條，裁定/如/主文。",
+        "version": "v264"
+    },
+    "relatedIssues": [
+        {
+            "lawName": "刑事訴訟法",
+            "issueRef": "220"
+        },
+        {
+            "lawName": "刑事訴訟法",
+            "issueRef": "291"
+        }
+    ],
+    "party": [
+        {
+            "group": [
+                "plaintiff"
+            ],
+            "title": "公訴人",
+            "value": "臺灣澎湖地方檢察署檢察官"
+        },
+        {
+            "group": [
+                "defendant"
+            ],
+            "title": "被告",
+            "value": "温一帆"
+        },
+        {
+            "group": [
+                "defendant",
+                "agentAdLitem",
+                "lawyer"
+            ],
+            "title": "選任辯護人",
+            "value": "鄭明達律師"
+        }
+    ]
+}

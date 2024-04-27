@@ -1,0 +1,443 @@
+{
+    "court": "臺灣澎湖地方法院",
+    "date": "2013-04-10T00:00:00+08:00",
+    "no": "100,訴,44",
+    "sys": "刑事",
+    "reason": "殺人未遂",
+    "judgement": {
+        "level": "lv2",
+        "result_obj": [
+            [
+                {
+                    "text": "臺灣",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "澎湖",
+                    "pos": "LOCATION"
+                },
+                {
+                    "text": "地方",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "法院刑事",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "100年度",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "訴字",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "第44號",
+                    "pos": "KNOWLEDGE_lawTW"
+                },
+                {
+                    "text": "公訴人",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "臺灣澎湖地方法院檢察署檢察官",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "徐自徽",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "選任",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯護人",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "林伯祥律師",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "陳文浩",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "指定",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯護人",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "本院公設辯護人張寅煥",
+                    "pos": "Entity_Party"
+                },
+                {
+                    "text": "上",
+                    "pos": "RANGE_locality"
+                },
+                {
+                    "text": "列",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "被告",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "2",
+                    "pos": "ENTITY_num"
+                },
+                {
+                    "text": "人",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "因",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "殺人",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "未遂",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "案件",
+                    "pos": "ENTITY_nounHead"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "前經",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "終結",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "茲",
+                    "pos": "CLAUSE_particle"
+                },
+                {
+                    "text": "因尚",
+                    "pos": "FUNC_inter"
+                },
+                {
+                    "text": "有",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "行",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "調查",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "之",
+                    "pos": "FUNC_inner"
+                },
+                {
+                    "text": "處",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "應",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "再",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "開",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "辯論",
+                    "pos": "ENTITY_nouny"
+                }
+            ],
+            [
+                {
+                    "text": "，",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "特此",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "裁定",
+                    "pos": "ACTION_verb"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "102年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "4月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "10日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "刑事庭",
+                    "pos": "ENTITY_oov"
+                },
+                {
+                    "text": "審判",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "長法官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "陳順輝",
+                    "pos": "ENTITY_person"
+                },
+                {
+                    "text": "法官",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "蔡政佑",
+                    "pos": "ENTITY_person"
+                },
+                {
+                    "text": "法官",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "孫健智",
+                    "pos": "ENTITY_person"
+                },
+                {
+                    "text": "以上",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "正",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "本",
+                    "pos": "FUNC_determiner"
+                },
+                {
+                    "text": "證明",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "與",
+                    "pos": "FUNC_conjunction"
+                },
+                {
+                    "text": "原本",
+                    "pos": "MODIFIER"
+                },
+                {
+                    "text": "無",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "異",
+                    "pos": "MODIFIER"
+                }
+            ],
+            [
+                {
+                    "text": "。",
+                    "pos": "PUNCTUATION"
+                }
+            ],
+            [
+                {
+                    "text": "本件",
+                    "pos": "ENTITY_DetPhrase"
+                },
+                {
+                    "text": "不",
+                    "pos": "FUNC_negation"
+                },
+                {
+                    "text": "得",
+                    "pos": "MODAL"
+                },
+                {
+                    "text": "抗告",
+                    "pos": "ACTION_verb"
+                },
+                {
+                    "text": "中華民國",
+                    "pos": "ENTITY_noun"
+                },
+                {
+                    "text": "102年",
+                    "pos": "TIME_year"
+                },
+                {
+                    "text": "4月",
+                    "pos": "TIME_month"
+                },
+                {
+                    "text": "10日",
+                    "pos": "TIME_day"
+                },
+                {
+                    "text": "書記官",
+                    "pos": "ENTITY_nouny"
+                },
+                {
+                    "text": "劉竹",
+                    "pos": "ENTITY_person"
+                },
+                {
+                    "text": "苞",
+                    "pos": "ENTITY_nouny"
+                }
+            ]
+        ],
+        "result_pos": [
+            "<LOCATION>臺灣</LOCATION><LOCATION>澎湖</LOCATION><ENTITY_noun>地方</ENTITY_noun><ENTITY_nouny>法院刑事</ENTITY_nouny><ACTION_verb>裁定</ACTION_verb><TIME_year>100年度</TIME_year><ENTITY_oov>訴字</ENTITY_oov><KNOWLEDGE_lawTW>第44號</KNOWLEDGE_lawTW><ENTITY_nouny>公訴人</ENTITY_nouny><Entity_Party>臺灣澎湖地方法院檢察署檢察官</Entity_Party><ENTITY_nouny>被告</ENTITY_nouny><Entity_Party>徐自徽</Entity_Party><ACTION_verb>選任</ACTION_verb><ENTITY_nouny>辯護人</ENTITY_nouny><Entity_Party>林伯祥律師</Entity_Party><ENTITY_nouny>被告</ENTITY_nouny><Entity_Party>陳文浩</Entity_Party><ACTION_verb>指定</ACTION_verb><ENTITY_nouny>辯護人</ENTITY_nouny><Entity_Party>本院公設辯護人張寅煥</Entity_Party><RANGE_locality>上</RANGE_locality><ENTITY_oov>列</ENTITY_oov><ENTITY_nouny>被告</ENTITY_nouny><ENTITY_num>2</ENTITY_num><ENTITY_noun>人</ENTITY_noun><FUNC_inter>因</FUNC_inter><ACTION_verb>殺人</ACTION_verb><MODIFIER>未遂</MODIFIER><ENTITY_nounHead>案件</ENTITY_nounHead>",
+            "，",
+            "<ACTION_verb>前經</ACTION_verb><ACTION_verb>辯論</ACTION_verb><ACTION_verb>終結</ACTION_verb>",
+            "，",
+            "<CLAUSE_particle>茲</CLAUSE_particle><FUNC_inter>因尚</FUNC_inter><ACTION_verb>有</ACTION_verb><MODAL>應</MODAL><MODIFIER>行</MODIFIER><ACTION_verb>調查</ACTION_verb><FUNC_inner>之</FUNC_inner><ENTITY_nouny>處</ENTITY_nouny>",
+            "，",
+            "<MODAL>應</MODAL><MODIFIER>再</MODIFIER><ACTION_verb>開</ACTION_verb><ENTITY_DetPhrase>本件</ENTITY_DetPhrase><ENTITY_nouny>辯論</ENTITY_nouny>",
+            "，",
+            "<ENTITY_nouny>特此</ENTITY_nouny><ACTION_verb>裁定</ACTION_verb>",
+            "。",
+            "<ENTITY_noun>中華民國</ENTITY_noun><TIME_year>102年</TIME_year><TIME_month>4月</TIME_month><TIME_day>10日</TIME_day><ENTITY_oov>刑事庭</ENTITY_oov><ACTION_verb>審判</ACTION_verb><ENTITY_nouny>長法官</ENTITY_nouny><ENTITY_person>陳順輝</ENTITY_person><ENTITY_noun>法官</ENTITY_noun><ENTITY_person>蔡政佑</ENTITY_person><ENTITY_noun>法官</ENTITY_noun><ENTITY_person>孫健智</ENTITY_person><ENTITY_nouny>以上</ENTITY_nouny><MODIFIER>正</MODIFIER><FUNC_determiner>本</FUNC_determiner><ENTITY_nouny>證明</ENTITY_nouny><FUNC_conjunction>與</FUNC_conjunction><MODIFIER>原本</MODIFIER><FUNC_negation>無</FUNC_negation><MODIFIER>異</MODIFIER>",
+            "。",
+            "<ENTITY_DetPhrase>本件</ENTITY_DetPhrase><FUNC_negation>不</FUNC_negation><MODAL>得</MODAL><ACTION_verb>抗告</ACTION_verb><ENTITY_noun>中華民國</ENTITY_noun><TIME_year>102年</TIME_year><TIME_month>4月</TIME_month><TIME_day>10日</TIME_day><ENTITY_nouny>書記官</ENTITY_nouny><ENTITY_person>劉竹</ENTITY_person><ENTITY_nouny>苞</ENTITY_nouny>"
+        ],
+        "result_segmentation": "臺灣/澎湖/地方/法院刑事/裁定/100年度/訴字/第44號/公訴人/臺灣澎湖地方法院檢察署檢察官/被告/徐自徽/選任/辯護人/林伯祥律師/被告/陳文浩/指定/辯護人/本院公設辯護人張寅煥/上/列/被告/2/人/因/殺人/未遂/案件，前經/辯論/終結，茲/因尚/有/應/行/調查/之/處，應/再/開/本件/辯論，特此/裁定。中華民國/102年/4月/10日/刑事庭/審判/長法官/陳順輝/法官/蔡政佑/法官/孫健智/以上/正/本/證明/與/原本/無/異。本件/不/得/抗告/中華民國/102年/4月/10日/書記官/劉竹/苞",
+        "version": "v250"
+    },
+    "type": "裁定",
+    "historyHash": "",
+    "mainText": "",
+    "opinion": {
+        "level": "lv2",
+        "result_obj": [],
+        "result_pos": [],
+        "result_segmentation": "",
+        "version": "v250"
+    },
+    "relatedIssues": [],
+    "party": [
+        {
+            "group": [
+                "plaintiff"
+            ],
+            "title": "公訴人",
+            "value": "臺灣澎湖地方法院檢察署檢察官"
+        },
+        {
+            "group": [
+                "defendant"
+            ],
+            "title": "被告",
+            "value": "徐自徽"
+        },
+        {
+            "group": [
+                "defendant",
+                "agentAdLitem",
+                "lawyer"
+            ],
+            "title": "選任辯護人",
+            "value": "林伯祥律師"
+        },
+        {
+            "group": [
+                "defendant"
+            ],
+            "title": "被告",
+            "value": "陳文浩"
+        },
+        {
+            "group": [
+                "defendant",
+                "agentAdLitem",
+                "lawyer"
+            ],
+            "title": "指定辯護人",
+            "value": "本院公設辯護人張寅煥"
+        }
+    ]
+}
