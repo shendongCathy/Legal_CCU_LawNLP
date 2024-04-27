@@ -17,11 +17,8 @@ get data from mainText 從主文得到資料，並且清洗為
 
 
 '''
-
-
-# articut parse 
-def articut(inputSTR):
-    articut = Articut(username="********", apikey="********")
+def articut(inputSTR, accountDICT):
+    articut = Articut(username=accountDICT["username"], apikey=accountDICT["apikey"])
     resultDICT = articut.parse(inputSTR)
 
     return resultDICT
