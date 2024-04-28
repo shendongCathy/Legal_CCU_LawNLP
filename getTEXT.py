@@ -23,7 +23,8 @@ try:
     with open(account_path, "r", encoding='utf8') as f:
         accountDICT = json.load(f)
 except FileNotFoundError:
-    print("make sure if you have the file")
+    accountDICT = {"username":"", "apikey":""}
+    print("Make sure if you have an account with valid apikey for more data.")
 
 def articut(inputSTR):
     articut = Articut(username=accountDICT["username"], apikey=accountDICT["apikey"])
@@ -165,8 +166,10 @@ def arti_and_save(data, TargetPat, Target_path):
     ''' 
     data: list of str, ['許見安幫助犯洗錢防制法第十四條第一項之洗錢罪處有期徒刑參月', '項曉岑犯駕駛動力交通工具發生交通事故致人傷害而逃逸罪處有期徒刑陸月'],
     TargetPat: e.g., MergedPat = re.compile("((?<=犯</ENTITY_oov)|(?<=[犯結]</ACTION_verb>)|(?<=犯</ENTITY_nouny>)).*"),
-    Target_path: str, Target_path = '../data/MergedALL.json',
+    Target_path: str, the path to save the output,Target_path = '../data/MergedALL.json',
     input: arti_and_save(merged_data, MergedPat, Merged_path)
+    output:Dict,{"洗錢防制法第十四條第一項之洗錢罪處有期徒刑參月": "<ACTION_verb>洗錢</ACTION_verb><ENTITY_nouny>防制法</ENTITY_nouny><KNOWLEDGE_lawTW>第十四條第一項</KNOWLEDGE_lawTW><FUNC_inner>之</FUNC_inner><ACTION_verb>洗錢</ACTION_verb><ENTITY_nouny>罪處</ENTITY_nouny><MODIFIER>有期</MODIFIER><ENTITY_nounHead>徒刑</ENTITY_nounHead><TIME_month>參月</TIME_month>"
+    save the output in Target_path
     '''
     Target_posLIST = articut_text(data)
     Target_results = target_result(TargetPat, Target_posLIST)
@@ -174,8 +177,6 @@ def arti_and_save(data, TargetPat, Target_path):
         json.dump(Target_results , file, ensure_ascii=False, indent=4)
     return Target_results
 
-
-s = 2
 if __name__ == '__main__':    
     
     file_path = collect_file_path(folder_path,s) #獲取資料夾裡面到.json檔
