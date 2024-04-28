@@ -31,7 +31,7 @@ def articut(inputSTR):
 
     return resultDICT
 
-def collect_file_path(folder_path,s):    
+def collect_file_path(folder_path,s=1000):    
     '''folder_path: str,
        s: int,起迄到第s個檔案,
        input: collect_file_path(folder_path,s),
